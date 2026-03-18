@@ -1,0 +1,12 @@
+{
+  "model": "tfidf_logreg_multinomial",
+  "best_c": 4.0,
+  "accuracy": 0.9813519813519813,
+  "macro_f1": 0.9815277463379651,
+  "weighted_f1": 0.981382441136208,
+  "labels": [
+    "APPLIED",
+    "SURVEY",
+    "THEORETICAL"
+  ]
+}

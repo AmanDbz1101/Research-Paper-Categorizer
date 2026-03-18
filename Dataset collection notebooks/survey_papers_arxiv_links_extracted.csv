@@ -1,0 +1,902 @@
+line_no,list_name,topic,md_title,source_note,paper_url,arxiv_id,is_arxiv_url,occurrences_in_markdown
+106,The NLP,Computational Social Science and Social Media,A Comprehensive Survey on Community Detection with Deep Learning.,arXiv 2021,https://arxiv.org/pdf/2105.12584.pdf,2105.12584,True,2
+110,The NLP,Computational Social Science and Social Media,"A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities.",ACM Comput. Surv. 2021,https://arxiv.org/abs/1812.00315,1812.00315,True,1
+114,The NLP,Computational Social Science and Social Media,"A Survey of Race, Racism, and Anti-Racism in NLP.",ACL 2021,https://arxiv.org/abs/2106.11410,2106.11410,True,1
+118,The NLP,Computational Social Science and Social Media,A Survey on Computational Propaganda Detection.,IJCAI 2020,https://arxiv.org/pdf/2007.08024.pdf,2007.08024,True,1
+126,The NLP,Computational Social Science and Social Media,Computational Sociolinguistics: A Survey.,Comput. Linguistics 2016,https://arxiv.org/abs/1508.07544,1508.07544,True,1
+130,The NLP,Computational Social Science and Social Media,Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective.,J. Artif. Intell. Res. 2021,https://arxiv.org/abs/2012.12305,2012.12305,True,1
+134,The NLP,Computational Social Science and Social Media,From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science.,J. Soc. Comput. 2021,https://arxiv.org/pdf/2106.14198,2106.14198,True,1
+138,The NLP,Computational Social Science and Social Media,"Language (Technology) is Power: A Critical Survey of ""Bias"" in NLP.",ACL 2020,https://arxiv.org/abs/2005.14050,2005.14050,True,1
+142,The NLP,Computational Social Science and Social Media,Societal Biases in Language Generation: Progress and Challenges.,ACL 2021,https://arxiv.org/pdf/2105.04054.pdf,2105.04054,True,1
+146,The NLP,Computational Social Science and Social Media,Tackling Online Abuse: A Survey of Automated Abuse Detection Methods.,arXiv 2019,https://arxiv.org/pdf/1908.06024.pdf,1908.06024,True,1
+150,The NLP,Computational Social Science and Social Media,When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?.,ACL 2020,https://arxiv.org/abs/2004.12043,2004.12043,True,1
+156,The NLP,Dialogue and Interactive Systems,A Survey of Arabic Dialogues Understanding for Spontaneous Dialogues and Instant Message.,arXiv 2015,https://arxiv.org/abs/1505.03084,1505.03084,True,1
+164,The NLP,Dialogue and Interactive Systems,A Survey of Document Grounded Dialogue Systems (DGDS).,arXiv 2020,https://arxiv.org/abs/2004.13818,2004.13818,True,1
+168,The NLP,Dialogue and Interactive Systems,A Survey of Intent Classification and Slot-Filling Datasets for Task-Oriented Dialog.,arXiv 2022,https://arxiv.org/pdf/2207.13211.pdf,2207.13211,True,1
+172,The NLP,Dialogue and Interactive Systems,"A Survey of Natural Language Generation Techniques with a Focus on Dialogue Systems - Past, Present and Future Directions.",arXiv 2019,https://arxiv.org/abs/1906.00500,1906.00500,True,1
+176,The NLP,Dialogue and Interactive Systems,A survey of neural models for the automatic analysis of conversation: Towards a better integration of the social sciences.,arXiv 2022,https://arxiv.org/pdf/2203.16891.pdf,2203.16891,True,1
+180,The NLP,Dialogue and Interactive Systems,A Survey on Dialog Management: Recent Advances and Challenges.,arXiv 2020,https://arxiv.org/abs/2005.02233,2005.02233,True,1
+184,The NLP,Dialogue and Interactive Systems,A Survey on Dialogue Systems: Recent Advances and New Frontiers.,SIGKDD Explor. 2017,https://arxiv.org/abs/1711.01731,1711.01731,True,1
+188,The NLP,Dialogue and Interactive Systems,Advances in Multi-turn Dialogue Comprehension: A Survey.,arXiv 2021,https://arxiv.org/abs/2103.03125,2103.03125,True,1
+192,The NLP,Dialogue and Interactive Systems,Challenges in Building Intelligent Open-domain Dialog Systems.,ACM Trans. Inf. Syst. 2020,https://arxiv.org/abs/1905.05709,1905.05709,True,1
+196,The NLP,Dialogue and Interactive Systems,Conversational Agents: Theory and Applications.,arXiv 2022,https://arxiv.org/pdf/2202.03164.pdf,2202.03164,True,1
+200,The NLP,Dialogue and Interactive Systems,Conversational Machine Comprehension: a Literature Review.,COLING 2020,https://arxiv.org/abs/2006.00671,2006.00671,True,1
+204,The NLP,Dialogue and Interactive Systems,How to Evaluate Your Dialogue Models: A Review of Approaches.,arXiv 2021,https://arxiv.org/pdf/2108.01369.pdf,2108.01369,True,1
+208,The NLP,Dialogue and Interactive Systems,Neural Approaches to Conversational AI.,ACL 2018,https://arxiv.org/pdf/1809.08267,1809.08267,True,1
+220,The NLP,Dialogue and Interactive Systems,Recent Advances and Challenges in Task-oriented Dialog System.,arXiv 2020,https://arxiv.org/pdf/2003.07490,2003.07490,True,1
+224,The NLP,Dialogue and Interactive Systems,Recent Advances in Deep Learning Based Dialogue Systems: A Systematic Survey.,arXiv 2021,https://arxiv.org/pdf/2105.04387.pdf,2105.04387,True,1
+228,The NLP,Dialogue and Interactive Systems,Utterance-level Dialogue Understanding: An Empirical Study.,arXiv 2020,https://arxiv.org/abs/2009.13902,2009.13902,True,1
+234,The NLP,Generation,A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models.,arXiv 2022,https://arxiv.org/pdf/2201.05337.pdf,2201.05337,True,2
+238,The NLP,Generation,A Survey of Knowledge-Enhanced Text Generation.,ACM Comput. Surv. 2022,https://arxiv.org/pdf/2010.04389.pdf,2010.04389,True,1
+242,The NLP,Generation,A Survey on Multi-hop Question Answering and Generation.,arXiv 2022,https://arxiv.org/pdf/2204.09140.pdf,2204.09140,True,2
+246,The NLP,Generation,A Survey on Retrieval-Augmented Text Generation.,arXiv 2022,https://arxiv.org/pdf/2202.01110.pdf,2202.01110,True,2
+250,The NLP,Generation,A Survey on Text Simplification.,arXiv 2020,https://arxiv.org/abs/2008.08612,2008.08612,True,1
+254,The NLP,Generation,Automatic Detection of Machine Generated Text: A Critical Survey.,COLING 2020,https://arxiv.org/pdf/2011.01314.pdf,2011.01314,True,1
+258,The NLP,Generation,Automatic Story Generation: Challenges and Attempts.,arXiv 2021,https://arxiv.org/abs/2102.12634,2102.12634,True,1
+262,The NLP,Generation,ChatGPT is not all you need. A State of the Art Review of large Generative AI models.,arXiv 2023,https://arxiv.org/pdf/2301.04655.pdf,2301.04655,True,1
+266,The NLP,Generation,Content Selection in Data-to-Text Systems: A Survey.,arXiv 2016,https://arxiv.org/abs/1610.08375,1610.08375,True,1
+274,The NLP,Generation,Deep Learning for Text Style Transfer: A Survey.,Comput. Linguistics 2022,https://arxiv.org/pdf/2011.00416.pdf,2011.00416,True,1
+278,The NLP,Generation,Evaluation of Text Generation: A Survey.,arXiv 2020,https://arxiv.org/abs/2006.14799,2006.14799,True,1
+282,The NLP,Generation,Human Evaluation of Creative NLG Systems: An Interdisciplinary Survey on Recent Papers.,arXiv 2021,https://arxiv.org/pdf/2108.00308.pdf,2108.00308,True,1
+286,The NLP,Generation,Keyphrase Generation: A Multi-Aspect Survey.,FRUCT 2019,https://arxiv.org/abs/1910.05059,1910.05059,True,1
+290,The NLP,Generation,"Neural Language Generation: Formulation, Methods, and Evaluation.",arXiv 2020,https://arxiv.org/pdf/2007.15780.pdf,2007.15780,True,1
+294,The NLP,Generation,"Neural Text Generation: Past, Present and Beyond.",arXiv 2018,https://arxiv.org/pdf/1803.07133.pdf,1803.07133,True,1
+298,The NLP,Generation,Quiz-Style Question Generation for News Stories.,WWW 2021,https://arxiv.org/abs/2102.09094,2102.09094,True,1
+302,The NLP,Generation,Recent Advances in Neural Question Generation.,arXiv 2019,https://arxiv.org/abs/1905.08949,1905.08949,True,1
+306,The NLP,Generation,Recent Advances in SQL Query Generation: A Survey.,arXiv 2020,https://arxiv.org/abs/2005.07667,2005.07667,True,1
+310,The NLP,Generation,Survey of Hallucination in Natural Language Generation.,arXiv 2022,https://arxiv.org/pdf/2202.03629.pdf,2202.03629,True,1
+314,The NLP,Generation,"Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation.",J. Artif. Intell. Res. 2018,https://arxiv.org/abs/1703.09902,1703.09902,True,1
+320,The NLP,Information Extraction,A Review on Fact Extraction and Verification.,ACM Comput. Surv. 2023,http://arxiv.org/abs/2010.03001,2010.03001,True,1
+324,The NLP,Information Extraction,A Survey of Deep Learning Methods for Relation Extraction.,arXiv 2017,https://arxiv.org/abs/1705.03645,1705.03645,True,1
+336,The NLP,Information Extraction,A survey of joint intent detection and slot-filling models in natural language understanding.,arXiv 2021,https://arxiv.org/abs/2101.08091,2101.08091,True,1
+344,The NLP,Information Extraction,A Survey on Deep Learning Event Extraction: Approaches and Applications.,arXiv 2021,https://arxiv.org/pdf/2107.02126.pdf,2107.02126,True,1
+348,The NLP,Information Extraction,A Survey on Open Information Extraction.,COLING 2018,https://arxiv.org/abs/1806.05599,1806.05599,True,1
+352,The NLP,Information Extraction,A Survey on Temporal Reasoning for Temporal Information Extraction from Text (Extended Abstract).,IJCAI 2020,https://arxiv.org/abs/2005.06527,2005.06527,True,1
+360,The NLP,Information Extraction,Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey.,arXiv 2016,https://arxiv.org/abs/1605.07895,1605.07895,True,1
+364,The NLP,Information Extraction,Complex Relation Extraction: Challenges and Opportunities.,arXiv 2020,https://arxiv.org/pdf/2012.04821.pdf,2012.04821,True,1
+372,The NLP,Information Extraction,Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective.,arXiv 2022,https://arxiv.org/pdf/2202.08063.pdf,2202.08063,True,1
+376,The NLP,Information Extraction,"More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction.",AACL 2020,https://arxiv.org/abs/2004.03186,2004.03186,True,1
+380,The NLP,Information Extraction,Neural relation extraction: a survey.,arXiv 2020,https://arxiv.org/abs/2007.04247,2007.04247,True,1
+384,The NLP,Information Extraction,"No Pattern, No Recognition: a Survey about Reproducibility and Distortion Issues of Text Clustering and Topic Modeling.",arXiv 2022,https://arxiv.org/pdf/2208.01712.pdf,2208.01712,True,1
+388,The NLP,Information Extraction,Recent Neural Methods on Slot Filling and Intent Classification for Task-Oriented Dialogue Systems: A Survey.,COLING 2020,https://arxiv.org/abs/2011.00564,2011.00564,True,1
+392,The NLP,Information Extraction,Relation Extraction : A Survey.,arXiv 2017,https://arxiv.org/abs/1712.05191,1712.05191,True,1
+396,The NLP,Information Extraction,Techniques for Jointly Extracting Entities and Relations: A Survey.,CICLing 2019,https://arxiv.org/abs/2103.06118,2103.06118,True,1
+402,The NLP,Information Retrieval and Text Mining,"A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques.",arXiv 2017,https://arxiv.org/abs/1707.02919,1707.02919,True,1
+406,The NLP,Information Retrieval and Text Mining,A survey of methods to ease the development of highly multilingual text mining applications.,Lang. Resour. Evaluation 2012,https://arxiv.org/abs/1401.2937,1401.2937,True,1
+410,The NLP,Information Retrieval and Text Mining,A Survey on Retrieval-Augmented Text Generation.,arXiv 2022,https://arxiv.org/pdf/2202.01110.pdf,2202.01110,True,2
+418,The NLP,Information Retrieval and Text Mining,Dense Text Retrieval based on Pretrained Language Models: A Survey.,arXiv 2022,https://arxiv.org/pdf/2211.14876.pdf,2211.14876,True,2
+422,The NLP,Information Retrieval and Text Mining,Neural Entity Linking: A Survey of Models Based on Deep Learning.,Semantic Web 2022,https://arxiv.org/abs/2006.00575,2006.00575,True,1
+426,The NLP,Information Retrieval and Text Mining,Neural Models for Information Retrieval.,arXiv 2017,https://arxiv.org/pdf/1705.01509.pdf,1705.01509,True,1
+430,The NLP,Information Retrieval and Text Mining,Opinion Mining and Analysis: A survey.,arXiv 2013,https://arxiv.org/abs/1307.3336,1307.3336,True,1
+434,The NLP,Information Retrieval and Text Mining,Pre-training Methods in Information Retrieval.,Found. Trends Inf. Retr. 2022,https://arxiv.org/pdf/2111.13853.pdf,2111.13853,True,2
+438,The NLP,Information Retrieval and Text Mining,Relational World Knowledge Representation in Contextual Language Models: A Review.,EMNLP 2021,https://arxiv.org/abs/2104.05837,2104.05837,True,1
+442,The NLP,Information Retrieval and Text Mining,"Short Text Topic Modeling Techniques, Applications, and Performance: A Survey.",IEEE Trans. Knowl. Data Eng. 2022,https://arxiv.org/abs/1904.07695,1904.07695,True,1
+446,The NLP,Information Retrieval and Text Mining,Taking Search to Task.,arXiv 2023,https://arxiv.org/pdf/2301.05046.pdf,2301.05046,True,1
+450,The NLP,Information Retrieval and Text Mining,Topic Modelling Meets Deep Neural Networks: A Survey.,IJCAI 2021,https://arxiv.org/abs/2103.00498,2103.00498,True,1
+456,The NLP,Interpretability and Analysis of Models for NLP,A Primer in BERTology: What we know about how BERT works.,Trans. Assoc. Comput. Linguistics 2020,https://arxiv.org/pdf/2002.12327.pdf,2002.12327,True,1
+460,The NLP,Interpretability and Analysis of Models for NLP,A Survey of the State of Explainable AI for Natural Language Processing.,AACL 2020,https://arxiv.org/pdf/2010.00711.pdf,2010.00711,True,1
+464,The NLP,Interpretability and Analysis of Models for NLP,A Survey on Deep Learning and Explainability for Automatic Report Generation from Medical Images.,ACM Comput. Surv. 2022,https://arxiv.org/pdf/2010.10563.pdf,2010.10563,True,1
+468,The NLP,Interpretability and Analysis of Models for NLP,A Survey on Explainability in Machine Reading Comprehension.,arXiv 2020,http://arxiv.org/pdf/2010.00389.pdf,2010.00389,True,2
+472,The NLP,Interpretability and Analysis of Models for NLP,Analysis Methods in Neural Language Processing: A Survey.,Trans. Assoc. Comput. Linguistics 2019,https://arxiv.org/abs/1812.08951,1812.08951,True,1
+476,The NLP,Interpretability and Analysis of Models for NLP,Analyzing and Interpreting Neural Networks for NLP: A Report on the First BlackboxNLP Workshop.,Nat. Lang. Eng. 2019,http://arxiv.org/pdf/1904.04063.pdf,1904.04063,True,1
+484,The NLP,Interpretability and Analysis of Models for NLP,Post-hoc Interpretability for Neural NLP: A Survey.,ACM Comput. Surv. 2023,https://arxiv.org/pdf/2108.04840.pdf,2108.04840,True,1
+488,The NLP,Interpretability and Analysis of Models for NLP,Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing.,NeurIPS Datasets and Benchmarks 2021,https://arxiv.org/pdf/2102.12060,2102.12060,True,1
+492,The NLP,Interpretability and Analysis of Models for NLP,Which *BERT? A Survey Organizing Contextualized Encoders.,EMNLP 2020,https://arxiv.org/pdf/2010.00854.pdf,2010.00854,True,1
+498,The NLP,Knowledge Graph,A Review of Relational Machine Learning for Knowledge Graphs.,Proc. IEEE 2016,https://arxiv.org/pdf/1503.00759,1503.00759,True,1
+502,The NLP,Knowledge Graph,A survey of embedding models of entities and relationships for knowledge graph completion.,arXiv 2017,https://arxiv.org/pdf/1703.08098.pdf,1703.08098,True,1
+506,The NLP,Knowledge Graph,A Survey of Embedding Space Alignment Methods for Language and Knowledge Graphs.,arXiv 2020,https://arxiv.org/pdf/2010.13688.pdf,2010.13688,True,1
+514,The NLP,Knowledge Graph,A Survey on Graph Neural Networks for Knowledge Graph Completion.,arXiv 2020,https://arxiv.org/abs/2007.12374,2007.12374,True,2
+518,The NLP,Knowledge Graph,"A Survey on Knowledge Graphs: Representation, Acquisition and Applications.",arXiv 2020,https://arxiv.org/abs/2002.00388,2002.00388,True,1
+526,The NLP,Knowledge Graph,Knowledge Graph Embedding for Link Prediction: A Comparative Analysis.,ACM Trans. Knowl. Discov. Data 2021,https://arxiv.org/abs/2002.00819,2002.00819,True,1
+530,The NLP,Knowledge Graph,Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces.,arXiv 2022,https://arxiv.org/pdf/2211.03536.pdf,2211.03536,True,1
+542,The NLP,Knowledge Graph,Knowledge Graphs.,ACM Comput. Surv. 2021,https://arxiv.org/abs/2003.02320,2003.02320,True,1
+550,The NLP,Knowledge Graph,Multi-Modal Knowledge Graph Construction and Application: A Survey.,arXiv 2022,https://arxiv.org/pdf/2202.05786.pdf,2202.05786,True,1
+558,The NLP,Knowledge Graph,"Survey and Open Problems in Privacy Preserving Knowledge Graph: Merging, Query, Representation, Completion and Applications.",arXiv 2020,https://arxiv.org/pdf/2011.10180.pdf,2011.10180,True,1
+562,The NLP,Knowledge Graph,The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges.,arXiv 2023,https://arxiv.org/abs/2303.02411,2303.02411,True,2
+572,The NLP,"Language Grounding to Vision, Robotics and Beyond",Emotionally-Aware Chatbots: A Survey.,arXiv 2019,https://arxiv.org/abs/1906.09774,1906.09774,True,1
+576,The NLP,"Language Grounding to Vision, Robotics and Beyond",From Show to Tell: A Survey on Deep Learning-based Image Captioning.,IEEE Trans. Pattern Anal. Mach. Intell. 2023,https://arxiv.org/pdf/2107.06912.pdf,2107.06912,True,1
+580,The NLP,"Language Grounding to Vision, Robotics and Beyond","Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods.",J. Artif. Intell. Res. 2021,https://arxiv.org/abs/1907.09358,1907.09358,True,1
+586,The NLP,Large Language Models,A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT.,arXiv 2023,https://arxiv.org/abs/2303.04226,2303.04226,True,1
+590,The NLP,Large Language Models,A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT.,arXiv 2023,https://arxiv.org/abs/2302.09419,2302.09419,True,1
+594,The NLP,Large Language Models,A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation.,arXiv 2023,https://arxiv.org/abs/2305.11391,2305.11391,True,1
+598,The NLP,Large Language Models,A Survey on In-context Learning.,arXiv 2023,https://arxiv.org/abs/2301.00234,2301.00234,True,2
+602,The NLP,Large Language Models,A Survey of Large Language Models.,arXiv 2023,https://arxiv.org/abs/2303.18223,2303.18223,True,1
+606,The NLP,Large Language Models,AI-Augmented Surveys: Leveraging Large Language Models for Opinion Prediction in Nationally Representative Surveys.,arXiv 2023,https://arxiv.org/abs/2305.09620,2305.09620,True,1
+610,The NLP,Large Language Models,Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation.,arXiv 2023,https://arxiv.org/abs/2305.00955,2305.00955,True,1
+614,The NLP,Large Language Models,Eight Things to Know about Large Language Models.,arXiv 2023,https://arxiv.org/abs/2304.00612,2304.00612,True,1
+618,The NLP,Large Language Models,Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond.,arXiv 2023,https://arxiv.org/abs/2304.13712,2304.13712,True,1
+622,The NLP,Large Language Models,Language Model Behavior: A Comprehensive Survey.,arXiv 2023,https://arxiv.org/abs/2303.11504,2303.11504,True,1
+626,The NLP,Large Language Models,Large Language Models Meet NL2Code: A Survey.,arXiv 2023,https://arxiv.org/abs/2212.09420,2212.09420,True,1
+630,The NLP,Large Language Models,Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey.,arXiv 2023,https://arxiv.org/abs/2302.10035,2302.10035,True,1
+634,The NLP,Large Language Models,On Efficient Training of Large-Scale Deep Learning Models: A Literature Review.,arXiv 2023,https://arxiv.org/abs/2304.03589,2304.03589,True,1
+638,The NLP,Large Language Models,"One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era.",arXiv 2023,https://arxiv.org/abs/2304.06488,2304.06488,True,1
+642,The NLP,Large Language Models,"Perception, performance, and detectability of conversational artificial intelligence across 32 university courses.",arXiv 2023,https://arxiv.org/abs/2305.13934,2305.13934,True,1
+646,The NLP,Large Language Models,Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey.,arXiv 2021,https://arxiv.org/abs/2111.01243,2111.01243,True,1
+650,The NLP,Large Language Models,Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey.,arXiv 2022,https://arxiv.org/pdf/2208.11857.pdf,2208.11857,True,1
+654,The NLP,Large Language Models,Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models.,arXiv 2023,https://arxiv.org/abs/2304.01852,2304.01852,True,1
+658,The NLP,Large Language Models,The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges.,arXiv 2023,https://arxiv.org/abs/2303.02411,2303.02411,True,2
+662,The NLP,Large Language Models,The Science of Detecting LLM-Generated Texts.,arXiv 2023,https://arxiv.org/abs/2303.07205,2303.07205,True,1
+666,The NLP,Large Language Models,The Shaky Foundations of Clinical Foundation Models: A Survey of Large Language Models and Foundation Models for EMRs.,arXiv 2023,https://arxiv.org/abs/2303.12961,2303.12961,True,1
+670,The NLP,Large Language Models,Towards Reasoning in Large Language Models: A Survey.,arXiv 2022,https://arxiv.org/pdf/2212.10403.pdf,2212.10403,True,1
+674,The NLP,Large Language Models,"Tricking LLMs into Disobedience: Understanding, Analyzing, and Preventing Jailbreaks.",arXiv 2023,https://arxiv.org/abs/2305.14965,2305.14965,True,1
+684,The NLP,"Linguistic Theories, Cognitive Modeling and Psycholinguistics",Modeling Language Variation and Universals: A Survey on Typological Linguistics for Natural Language Processing.,Comput. Linguistics 2019,https://arxiv.org/abs/1807.00914,1807.00914,True,1
+688,The NLP,"Linguistic Theories, Cognitive Modeling and Psycholinguistics",Survey on the Use of Typological Information in Natural Language Processing.,COLING 2016,https://arxiv.org/abs/1610.03349,1610.03349,True,1
+694,The NLP,Machine Learning for NLP,A Comprehensive Survey on Word Representation Models: From Classical to State-Of-The-Art Word Representation Language Models.,ACM Trans. Asian Low Resour. Lang. Inf. Process. 2021,https://arxiv.org/pdf/2010.15036.pdf,2010.15036,True,1
+698,The NLP,Machine Learning for NLP,A Survey Of Cross-lingual Word Embedding Models.,J. Artif. Intell. Res. 2019,https://arxiv.org/abs/1706.04902,1706.04902,True,1
+702,The NLP,Machine Learning for NLP,A Survey of Data Augmentation Approaches for NLP.,ACL 2021,https://arxiv.org/pdf/2105.03075,2105.03075,True,2
+706,The NLP,Machine Learning for NLP,A Survey of Neural Network Techniques for Feature Extraction from Text.,arXiv 2017,https://arxiv.org/abs/1704.08531,1704.08531,True,1
+710,The NLP,Machine Learning for NLP,A Survey of Neural Networks and Formal Languages.,arXiv 2020,https://arxiv.org/abs/2006.01338,2006.01338,True,1
+714,The NLP,Machine Learning for NLP,A Survey of the Usages of Deep Learning in Natural Language Processing.,arXiv 2018,https://arxiv.org/pdf/1807.10854,1807.10854,True,1
+718,The NLP,Machine Learning for NLP,A Survey on Contextual Embeddings.,arXiv 2020,https://arxiv.org/abs/2003.07278,2003.07278,True,1
+722,The NLP,Machine Learning for NLP,A Survey on Transfer Learning in Natural Language Processing.,arXiv 2020,https://arxiv.org/abs/2007.04239,2007.04239,True,2
+726,The NLP,Machine Learning for NLP,Adversarial Attacks and Defense on Texts: A Survey.,arXiv 2020,https://arxiv.org/abs/2005.14108,2005.14108,True,1
+738,The NLP,Machine Learning for NLP,"Bangla Natural Language Processing: A Comprehensive Analysis of Classical, Machine Learning, and Deep Learning-Based Methods.",IEEE Access 2022,https://arxiv.org/abs/2105.14875,2105.14875,True,1
+742,The NLP,Machine Learning for NLP,Federated Learning Meets Natural Language Processing: A Survey.,arXiv 2021,https://arxiv.org/pdf/2107.12603.pdf,2107.12603,True,1
+750,The NLP,Machine Learning for NLP,From Word to Sense Embeddings: A Survey on Vector Representations of Meaning.,J. Artif. Intell. Res. 2018,https://arxiv.org/abs/1805.04032,1805.04032,True,1
+754,The NLP,Machine Learning for NLP,Graph Neural Networks for Natural Language Processing: A Survey.,Found. Trends Mach. Learn. 2023,https://arxiv.org/pdf/2106.06090.pdf,2106.06090,True,2
+758,The NLP,Machine Learning for NLP,Informed Machine Learning - A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems.,IEEE Trans. Knowl. Data Eng. 2023,https://arxiv.org/abs/1903.12394,1903.12394,True,1
+762,The NLP,Machine Learning for NLP,Narrative Science Systems: A Review.,arXiv 2015,https://arxiv.org/abs/1510.04420,1510.04420,True,1
+766,The NLP,Machine Learning for NLP,Natural Language Processing Advancements By Deep Learning: A Survey.,arXiv 2020,https://arxiv.org/abs/2003.01200,2003.01200,True,1
+778,The NLP,Machine Learning for NLP,Token-Modification Adversarial Attacks for Natural Language Processing: A Survey.,arXiv 2021,https://arxiv.org/abs/2103.00676,2103.00676,True,1
+782,The NLP,Machine Learning for NLP,Towards a Robust Deep Neural Network in Texts: A Survey.,arXiv 2019,https://arxiv.org/abs/1902.07285,1902.07285,True,1
+786,The NLP,Machine Learning for NLP,Word Embeddings: A Survey.,arXiv 2019,https://arxiv.org/abs/1901.09069,1901.09069,True,1
+792,The NLP,Machine Translation,A Comprehensive Survey of Multilingual Neural Machine Translation.,arXiv 2020,https://arxiv.org/abs/2001.01115,2001.01115,True,1
+796,The NLP,Machine Translation,A Survey of Deep Learning Techniques for Neural Machine Translation.,arXiv 2020,https://arxiv.org/abs/2002.07526,2002.07526,True,1
+800,The NLP,Machine Translation,A Survey of Domain Adaptation for Neural Machine Translation.,COLING 2018,https://arxiv.org/abs/1806.00258,1806.00258,True,1
+804,The NLP,Machine Translation,A Survey of Methods to Leverage Monolingual Data in Low-resource Neural Machine Translation.,arXiv 2019,https://arxiv.org/abs/1910.00373,1910.00373,True,1
+808,The NLP,Machine Translation,A Survey of Orthographic Information in Machine Translation.,SN Comput. Sci. 2021,https://arxiv.org/abs/2008.01391,2008.01391,True,1
+812,The NLP,Machine Translation,A Survey of Word Reordering in Statistical Machine Translation: Computational Models and Language Phenomena.,Comput. Linguistics 2016,https://arxiv.org/abs/1502.04938,1502.04938,True,1
+816,The NLP,Machine Translation,A Survey on Document-level Neural Machine Translation: Methods and Evaluation.,ACM Comput. Surv. 2022,https://arxiv.org/abs/1912.08494,1912.08494,True,1
+820,The NLP,Machine Translation,A Survey on Low-Resource Neural Machine Translation.,IJCAI 2021,https://arxiv.org/pdf/2107.04239.pdf,2107.04239,True,1
+824,The NLP,Machine Translation,A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond.,arXiv 2022,https://arxiv.org/pdf/2204.09269.pdf,2204.09269,True,1
+828,The NLP,Machine Translation,Domain Adaptation and Multi-Domain Adaptation for Neural Machine Translation: A Survey.,J. Artif. Intell. Res. 2022,https://arxiv.org/abs/2104.06951,2104.06951,True,1
+832,The NLP,Machine Translation,Gender Bias in Machine Translation.,Trans. Assoc. Comput. Linguistics 2021,https://arxiv.org/abs/2104.06001,2104.06001,True,1
+840,The NLP,Machine Translation,Machine Translation Evaluation Resources and Methods: A Survey.,Ireland Postgraduate Research Conference 2018,https://arxiv.org/abs/1605.04515,1605.04515,True,1
+844,The NLP,Machine Translation,Machine Translation using Semantic Web Technologies: A Survey.,J. Web Semant. 2018,https://arxiv.org/abs/1711.09476,1711.09476,True,1
+848,The NLP,Machine Translation,Machine-Translation History and Evolution: Survey for Arabic-English Translations.,arXiv 2017,https://arxiv.org/abs/1709.04685,1709.04685,True,1
+852,The NLP,Machine Translation,Multimodal Machine Translation through Visuals and Speech.,Mach. Transl. 2020,https://arxiv.org/abs/1911.12798,1911.12798,True,1
+856,The NLP,Machine Translation,Neural Machine Translation and Sequence-to-sequence Models: A Tutorial.,arXiv 2017,https://arxiv.org/abs/1703.01619,1703.01619,True,1
+860,The NLP,Machine Translation,Neural Machine Translation for Low-Resource Languages: A Survey.,arXiv 2021,https://arxiv.org/abs/2106.15115,2106.15115,True,1
+864,The NLP,Machine Translation,Neural Machine Translation: A Review.,J. Artif. Intell. Res. 2020,https://arxiv.org/abs/1912.02047,1912.02047,True,1
+872,The NLP,Machine Translation,"Neural Machine Translation: Challenges, Progress and Future.",arXiv 2020,https://arxiv.org/abs/2004.05809,2004.05809,True,1
+876,The NLP,Machine Translation,Survey of Low-Resource Machine Translation.,Comput. Linguistics 2022,https://export.arxiv.org/pdf/2109.00486,2109.00486,True,1
+880,The NLP,Machine Translation,The Query Translation Landscape: a Survey.,arXiv 2019,https://arxiv.org/abs/1910.03118,1910.03118,True,1
+894,The NLP,Named Entity Recognition,A Survey of Named Entity Recognition in Assamese and other Indian Languages.,arXiv 2014,https://arxiv.org/abs/1407.2918,1407.2918,True,1
+898,The NLP,Named Entity Recognition,A Survey on Deep Learning for Named Entity Recognition.,IEEE Trans. Knowl. Data Eng. 2022,https://arxiv.org/abs/1812.09449,1812.09449,True,1
+902,The NLP,Named Entity Recognition,A Survey on Recent Advances in Named Entity Recognition from Deep Learning models.,COLING 2018,https://arxiv.org/abs/1910.11470,1910.11470,True,1
+906,The NLP,Named Entity Recognition,Design Challenges and Misconceptions in Neural Sequence Labeling.,COLING 2018,https://arxiv.org/abs/1806.04470,1806.04470,True,2
+912,The NLP,Natural Language Inference,A Comparative Survey of Recent Natural Language Interfaces for Databases.,VLDB J. 2019,https://arxiv.org/abs/1906.08990,1906.08990,True,1
+916,The NLP,Natural Language Inference,Beyond Leaderboards: A survey of methods for revealing weaknesses in Natural Language Inference data and models.,arXiv 2020,https://arxiv.org/abs/2005.14709,2005.14709,True,1
+920,The NLP,Natural Language Inference,"Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches.",arXiv 2019,https://arxiv.org/pdf/1904.01172,1904.01172,True,2
+930,The NLP,Natural Language Processing,A Brief Survey and Comparative Study of Recent Development of Pronoun Coreference Resolution.,arXiv 2020,https://arxiv.org/pdf/2009.12721.pdf,2009.12721,True,1
+934,The NLP,Natural Language Processing,A Comprehensive Survey of Grammar Error Correction.,arXiv 2020,https://arxiv.org/abs/2005.06600,2005.06600,True,1
+938,The NLP,Natural Language Processing,A Neural Entity Coreference Resolution Review.,Expert Syst. Appl. 2021,https://arxiv.org/abs/1910.09329,1910.09329,True,1
+942,The NLP,Natural Language Processing,A Primer on Neural Network Models for Natural Language Processing.,J. Artif. Intell. Res. 2016,https://arxiv.org/abs/1510.00726,1510.00726,True,1
+946,The NLP,Natural Language Processing,A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models.,arXiv 2021,https://arxiv.org/abs/2107.03844,2107.03844,True,1
+950,The NLP,Natural Language Processing,A Survey and Classification of Controlled Natural Languages.,Comput. Linguistics 2014,https://arxiv.org/abs/1507.01701,1507.01701,True,1
+954,The NLP,Natural Language Processing,A Survey of Implicit Discourse Relation Recognition.,arXiv 2022,https://arxiv.org/pdf/2203.02982.pdf,2203.02982,True,1
+958,The NLP,Natural Language Processing,A Survey on Bias and Fairness in Natural Language Processing.,arXiv 2022,https://arxiv.org/pdf/2204.09591.pdf,2204.09591,True,1
+962,The NLP,Natural Language Processing,A Survey on Dynamic Neural Networks for Natural Language Processing.,arXiv 2022,https://arxiv.org/pdf/2202.07101.pdf,2202.07101,True,1
+966,The NLP,Natural Language Processing,A Survey on In-context Learning.,arXiv 2023,https://arxiv.org/pdf/2301.00234.pdf,2301.00234,True,2
+970,The NLP,Natural Language Processing,A Survey on Model Compression and Acceleration for Pretrained Language Models.,arXiv 2022,https://arxiv.org/pdf/2202.07105.pdf,2202.07105,True,2
+974,The NLP,Natural Language Processing,A Survey on Neural Network Language Models.,arXiv 2019,https://arxiv.org/abs/1906.03591,1906.03591,True,1
+978,The NLP,Natural Language Processing,A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios.,NAACL-HLT 2021,https://arxiv.org/pdf/2010.12309.pdf,2010.12309,True,1
+982,The NLP,Natural Language Processing,"A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions.",arXiv 2022,https://arxiv.org/pdf/2208.13629.pdf,2208.13629,True,2
+986,The NLP,Natural Language Processing,An Introductory Survey on Attention Mechanisms in NLP Problems.,IntelliSys 2019,https://arxiv.org/pdf/1811.05544.pdf,1811.05544,True,1
+994,The NLP,Natural Language Processing,Automatic Arabic Dialect Identification Systems for Written Texts: A Survey.,arXiv 2020,https://arxiv.org/abs/2009.12622,2009.12622,True,1
+1006,The NLP,Natural Language Processing,Deep Learning Approaches to Lexical Simplification: A Survey.,arXiv 2023,https://arxiv.org/abs/2305.12000,2305.12000,True,1
+1010,The NLP,Natural Language Processing,Efficient Methods for Natural Language Processing: A Survey.,arXiv 2022,https://arxiv.org/pdf/2209.00099.pdf,2209.00099,True,2
+1014,The NLP,Natural Language Processing,Experience Grounds Language.,EMNLP 2020,https://arxiv.org/abs/2004.10151,2004.10151,True,1
+1018,The NLP,Natural Language Processing,How Commonsense Knowledge Helps with Natural Language Tasks: A Survey of Recent Resources and Methodologies.,arXiv 2021,https://arxiv.org/pdf/2108.04674.pdf,2108.04674,True,1
+1026,The NLP,Natural Language Processing,Meta Learning for Natural Language Processing: A Survey.,NAACL-HLT 2022,https://arxiv.org/pdf/2205.01500.pdf,2205.01500,True,1
+1030,The NLP,Natural Language Processing,Natural Language Processing - A Survey.,arXiv 2012,https://arxiv.org/abs/1209.6238,1209.6238,True,1
+1034,The NLP,Natural Language Processing,"Natural Language Processing: State of The Art, Current Trends and Challenges.",Multim. Tools Appl. 2023,https://arxiv.org/abs/1708.05148,1708.05148,True,1
+1038,The NLP,Natural Language Processing,"Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering.",COLING 2018,https://arxiv.org/pdf/1806.04330.pdf,1806.04330,True,1
+1054,The NLP,Natural Language Processing,Putting Humans in the Natural Language Processing Loop: A Survey.,arXiv 2021,https://arxiv.org/abs/2103.04044,2103.04044,True,1
+1058,The NLP,Natural Language Processing,State-of-the-art generalisation research in NLP: A taxonomy and review.,arXiv 2022,https://arxiv.org/pdf/2210.03050.pdf,2210.03050,True,1
+1062,The NLP,Natural Language Processing,Survey on Publicly Available Sinhala Natural Language Processing Tools and Research.,arXiv 2019,https://arxiv.org/abs/1906.02358,1906.02358,True,2
+1066,The NLP,Natural Language Processing,Visualizing Natural Language Descriptions: A Survey.,ACM Comput. Surv. 2016,https://arxiv.org/abs/1607.00623,1607.00623,True,1
+1070,The NLP,Natural Language Processing,Word Alignment in the Era of Deep Learning: A Tutorial.,arXiv 2022,https://arxiv.org/abs/2212.00138.pdf,2212.00138,True,1
+1076,The NLP,NLP Applications,A Short Survey of Biomedical Relation Extraction Techniques.,arXiv 2017,https://arxiv.org/abs/1707.05850,1707.05850,True,1
+1080,The NLP,NLP Applications,A Survey of Learning-based Automated Program Repair.,arXiv 2023,https://arxiv.org/abs/2301.03270.pdf,2301.03270,True,1
+1084,The NLP,NLP Applications,"A Survey on Legal Judgment Prediction: Datasets, Metrics, Models and Challenges.",arXiv 2022,https://arxiv.org/pdf/2204.04859.pdf,2204.04859,True,1
+1088,The NLP,NLP Applications,A survey on natural language processing (nlp) and applications in insurance.,arXiv 2020,http://arxiv.org/pdf/2010.00462.pdf,2010.00462,True,1
+1092,The NLP,NLP Applications,Android Security using NLP Techniques: A Review.,arXiv 2021,https://arxiv.org/abs/2107.03072,2107.03072,True,1
+1096,The NLP,NLP Applications,Disinformation Detection: A review of linguistic feature selection and classification models in news veracity assessments.,arXiv 2019,https://arxiv.org/abs/1910.12073,1910.12073,True,1
+1100,The NLP,NLP Applications,Extraction and Analysis of Fictional Character Networks: A Survey.,ACM Comput. Surv. 2019,https://arxiv.org/abs/1907.02704,1907.02704,True,1
+1104,The NLP,NLP Applications,How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence.,ACL 2020,https://arxiv.org/pdf/2004.12158,2004.12158,True,1
+1112,The NLP,NLP Applications,Neural Natural Language Processing for Unstructured Data in Electronic Health Records: a Review.,arXiv 2021,https://arxiv.org/abs/2107.02975,2107.02975,True,1
+1128,The NLP,NLP Applications,The Potential of Machine Learning and NLP for Handling Students' Feedback (A Short Survey).,arXiv 2020,https://arxiv.org/pdf/2011.05806,2011.05806,True,1
+1132,The NLP,NLP Applications,Towards Improved Model Design for Authorship Identification: A Survey on Writing Style Understanding.,arXiv 2020,https://arxiv.org/pdf/2009.14445.pdf,2009.14445,True,1
+1138,The NLP,Pretrained Models,"A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives.",arXiv 2021,https://arxiv.org/abs/2102.12982,2102.12982,True,1
+1142,The NLP,Pretrained Models,A Review on Language Models as Knowledge Bases.,arXiv 2022,https://arxiv.org/pdf/2204.06031.pdf,2204.06031,True,1
+1146,The NLP,Pretrained Models,A Short Survey of Pre-trained Language Models for Conversational AI-A NewAge in NLP.,arXiv 2021,https://arxiv.org/abs/2104.10810,2104.10810,True,1
+1150,The NLP,Pretrained Models,A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models.,arXiv 2022,https://arxiv.org/pdf/2201.05337.pdf,2201.05337,True,2
+1158,The NLP,Pretrained Models,A Survey on Time-Series Pre-Trained Models.,arXiv 2023,https://arxiv.org/abs/2305.10716,2305.10716,True,1
+1162,The NLP,Pretrained Models,AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing.,arXiv 2021,https://arxiv.org/pdf/2108.05542.pdf,2108.05542,True,1
+1166,The NLP,Pretrained Models,Commonsense Reasoning for Conversational AI: A Survey of the State of the Art.,arXiv 2023,https://arxiv.org/abs/2302.07926,2302.07926,True,1
+1170,The NLP,Pretrained Models,Dense Text Retrieval based on Pretrained Language Models: A Survey.,arXiv 2022,https://arxiv.org/pdf/2211.14876.pdf,2211.14876,True,2
+1174,The NLP,Pretrained Models,"Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing.",ACM Comput. Surv. 2023,https://arxiv.org/pdf/2107.13586.pdf,2107.13586,True,1
+1178,The NLP,Pretrained Models,Pretrained Language Models for Text Generation: A Survey.,arXiv 2021,https://arxiv.org/abs/2201.05273,2201.05273,True,1
+1186,The NLP,Pretrained Models,"Pre-Trained Models: Past, Present and Future.",arXiv 2021,https://arxiv.org/abs/2106.07139,2106.07139,True,1
+1194,The NLP,Pretrained Models,Pre-training Methods in Information Retrieval.,Found. Trends Inf. Retr. 2022,https://arxiv.org/pdf/2111.13853.pdf,2111.13853,True,2
+1198,The NLP,Pretrained Models,Survey: Transformer based Video-Language Pre-training.,AI Open 2022,https://arxiv.org/pdf/2109.09920.pdf,2109.09920,True,2
+1202,The NLP,Pretrained Models,VLP: A Survey on Vision-Language Pre-training.,Int. J. Autom. Comput. 2023,https://arxiv.org/pdf/2202.09061.pdf,2202.09061,True,2
+1208,The NLP,Prompt,Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.,arXiv 2023,https://arxiv.org/abs/2303.10475,2303.10475,True,1
+1216,The NLP,Prompt,Reasoning with Language Model Prompting: A Survey.,arXiv 2022,https://arxiv.org/pdf/2212.09597.pdf,2212.09597,True,1
+1226,The NLP,Question Answering,"A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions.",IJCAI 2021,https://arxiv.org/abs/2105.11644,2105.11644,True,1
+1230,The NLP,Question Answering,A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges.,arXiv 2020,https://arxiv.org/abs/2007.13069,2007.13069,True,1
+1234,The NLP,Question Answering,A Survey on Multi-hop Question Answering and Generation.,arXiv 2022,https://arxiv.org/pdf/2204.09140.pdf,2204.09140,True,2
+1242,The NLP,Question Answering,A Survey on Why-Type Question Answering Systems.,arXiv 2019,https://arxiv.org/abs/1911.04879,1911.04879,True,1
+1246,The NLP,Question Answering,Complex Knowledge Base Question Answering: A Survey.,arXiv 2021,https://arxiv.org/pdf/2108.06688.pdf,2108.06688,True,1
+1254,The NLP,Question Answering,Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs.,arXiv 2019,https://arxiv.org/abs/1907.09361,1907.09361,True,1
+1258,The NLP,Question Answering,Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study.,Trans. Assoc. Comput. Linguistics 2021,https://arxiv.org/abs/2106.03826,2106.03826,True,1
+1266,The NLP,Question Answering,Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering.,arXiv 2021,http://arxiv.org/pdf/2101.00774.pdf,2101.00774,True,1
+1270,The NLP,Question Answering,Survey of Visual Question Answering: Datasets and Techniques.,arXiv 2017,https://arxiv.org/abs/1705.03865,1705.03865,True,1
+1274,The NLP,Question Answering,Text-based Question Answering from Information Retrieval and Deep Neural Network Perspectives: A Survey.,WIREs Data Mining Knowl. Discov. 2021,https://arxiv.org/abs/2002.06612,2002.06612,True,1
+1278,The NLP,Question Answering,Tutorial on Answering Questions about Images with Deep Learning.,arXiv 2016,https://arxiv.org/abs/1610.01076,1610.01076,True,1
+1282,The NLP,Question Answering,Visual Question Answering using Deep Learning: A Survey and Performance Analysis.,CVIP 2020,https://arxiv.org/abs/1909.01860,1909.01860,True,1
+1288,The NLP,Reading Comprehension,A Survey on Explainability in Machine Reading Comprehension.,arXiv 2020,http://arxiv.org/pdf/2010.00389.pdf,2010.00389,True,2
+1292,The NLP,Reading Comprehension,A Survey on Machine Reading Comprehension Systems.,Nat. Lang. Eng. 2022,https://arxiv.org/abs/2001.01582,2001.01582,True,1
+1300,The NLP,Reading Comprehension,A Survey on Neural Machine Reading Comprehension.,arXiv 2019,https://arxiv.org/abs/1906.03824,1906.03824,True,1
+1304,The NLP,Reading Comprehension,English Machine Reading Comprehension Datasets: A Survey.,EMNLP 2021,https://arxiv.org/abs/2101.10421,2101.10421,True,1
+1308,The NLP,Reading Comprehension,Machine Reading Comprehension: a Literature Review.,arXiv 2019,https://arxiv.org/abs/1907.01686,1907.01686,True,1
+1312,The NLP,Reading Comprehension,Machine Reading Comprehension: The Role of Contextualized Language Models and Beyond.,arXiv 2020,https://arxiv.org/abs/2005.06249,2005.06249,True,1
+1316,The NLP,Reading Comprehension,Neural Machine Reading Comprehension: Methods and Trends.,arXiv 2019,https://arxiv.org/abs/1907.01118,1907.01118,True,1
+1342,The NLP,Recommender Systems,A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions.,arXiv 2021,https://arxiv.org/pdf/2109.03540.pdf,2109.03540,True,1
+1350,The NLP,Recommender Systems,A Survey on Accuracy-oriented Neural Recommendation: From Collaborative Filtering to Information-rich Recommendation.,arXiv 2021,https://arxiv.org/pdf/2104.13030.pdf,2104.13030,True,1
+1354,The NLP,Recommender Systems,A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2005.10322,2005.10322,True,1
+1358,The NLP,Recommender Systems,A Survey on Conversational Recommender Systems.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2004.00646,2004.00646,True,1
+1366,The NLP,Recommender Systems,A Survey on Knowledge Graph-Based Recommender Systems.,IEEE Trans. Knowl. Data Eng. 2022,https://arxiv.org/abs/2003.00911,2003.00911,True,1
+1370,The NLP,Recommender Systems,A Survey on Personality-Aware Recommendation Systems.,Artif. Intell. Rev. 2022,http://arxiv.org/pdf/2101.12153.pdf,2101.12153,True,1
+1374,The NLP,Recommender Systems,A Survey on Reinforcement Learning for Recommender Systems.,arXiv 2021,https://arxiv.org/pdf/2109.10665.pdf,2109.10665,True,2
+1378,The NLP,Recommender Systems,A Survey on Session-based Recommender Systems.,ACM Comput. Surv. 2022,https://arxiv.org/pdf/1902.04864.pdf,1902.04864,True,1
+1382,The NLP,Recommender Systems,A Survey on the Fairness of Recommender Systems.,arXiv 2022,https://arxiv.org/pdf/2206.03761.pdf,2206.03761,True,1
+1386,The NLP,Recommender Systems,Advances and Challenges in Conversational Recommender Systems: A Survey.,AI Open 2021,https://arxiv.org/abs/2101.09459,2101.09459,True,1
+1390,The NLP,Recommender Systems,Advances and Challenges of Multi-task Learning Method in Recommender System: A Survey.,arXiv 2023,https://arxiv.org/abs/2305.13843,2305.13843,True,1
+1398,The NLP,Recommender Systems,AutoML for Deep Recommender Systems: A Survey.,arXiv 2022,https://arxiv.org/pdf/2203.13922.pdf,2203.13922,True,2
+1402,The NLP,Recommender Systems,Bias and Debias in Recommender System: A Survey and Future Directions.,arXiv 2020,https://arxiv.org/abs/2010.03240,2010.03240,True,1
+1406,The NLP,Recommender Systems,"Causal Inference in Recommender Systems: A Survey of Strategies for Bias Mitigation, Explanation, and Generalization.",arXiv 2023,https://arxiv.org/pdf/2301.00910.pdf,2301.00910,True,1
+1430,The NLP,Recommender Systems,Deep Conversational Recommender Systems: A New Frontier for Goal-Oriented Dialogue Systems.,arXiv 2020,https://arxiv.org/abs/2004.13245,2004.13245,True,1
+1434,The NLP,Recommender Systems,Deep Learning based Recommender System: A Survey and New Perspectives.,ACM Comput. Surv. 2019,https://arxiv.org/abs/1707.07435,1707.07435,True,1
+1442,The NLP,Recommender Systems,Deep Learning on Knowledge Graph for Recommender System: A Survey.,arXiv 2020,https://arxiv.org/abs/2004.00387,2004.00387,True,1
+1446,The NLP,Recommender Systems,Deep Meta-learning in Recommendation Systems: A Survey.,arXiv 2022,https://arxiv.org/pdf/2206.04415.pdf,2206.04415,True,1
+1454,The NLP,Recommender Systems,Explainable Recommendation: A Survey and New Perspectives.,Found. Trends Inf. Retr. 2020,https://arxiv.org/abs/1804.11192,1804.11192,True,1
+1458,The NLP,Recommender Systems,Graph Learning Approaches to Recommender Systems: A Review.,arXiv 2020,https://arxiv.org/abs/2004.11718,2004.11718,True,1
+1462,The NLP,Recommender Systems,Graph Learning based Recommender Systems: A Review.,IJCAI 2021,https://arxiv.org/pdf/2105.06339.pdf,2105.06339,True,1
+1466,The NLP,Recommender Systems,Graph Neural Networks in Recommender Systems: A Survey.,arXiv 2020,https://arxiv.org/abs/2011.02260,2011.02260,True,2
+1478,The NLP,Recommender Systems,"Measuring ""Why"" in Recommender Systems: a Comprehensive Survey on the Evaluation of Explainable Recommendation.",arXiv 2022,https://arxiv.org/pdf/2202.06466.pdf,2202.06466,True,2
+1490,The NLP,Recommender Systems,Recommender Systems for the Internet of Things: A Survey.,arXiv 2020,https://arxiv.org/pdf/2007.06758.pdf,2007.06758,True,1
+1502,The NLP,Recommender Systems,Self-Supervised Learning for Recommender Systems: A Survey.,arXiv 2022,https://arxiv.org/pdf/2203.15876.pdf,2203.15876,True,2
+1506,The NLP,Recommender Systems,Sequence-Aware Recommender Systems.,ACM Comput. Surv. 2018,https://arxiv.org/abs/1802.08452,1802.08452,True,1
+1526,The NLP,Recommender Systems,Survey for Trust-aware Recommender Systems: A Deep Learning Perspective.,arXiv 2020,http://arxiv.org/abs/2004.03774,2004.03774,True,1
+1538,The NLP,Recommender Systems,Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works.,arXiv 2017,https://arxiv.org/abs/1712.07525,1712.07525,True,1
+1544,The NLP,Resources and Evaluation,A Review of Human Evaluation for Style Transfer.,arXiv 2021,https://arxiv.org/abs/2106.04747,2106.04747,True,1
+1548,The NLP,Resources and Evaluation,A Short Survey on Sense-Annotated Corpora.,LREC 2020,https://arxiv.org/abs/1802.04744,1802.04744,True,1
+1552,The NLP,Resources and Evaluation,A Survey of Current Datasets for Vision and Language Research.,EMNLP 2015,https://arxiv.org/abs/1506.06833,1506.06833,True,1
+1556,The NLP,Resources and Evaluation,A Survey of Evaluation Metrics Used for NLG Systems.,ACM Comput. Surv. 2023,https://arxiv.org/abs/2008.12009,2008.12009,True,1
+1560,The NLP,Resources and Evaluation,A Survey of Word Embeddings Evaluation Methods.,arXiv 2018,https://arxiv.org/abs/1801.09536,1801.09536,True,1
+1564,The NLP,Resources and Evaluation,A Survey on Recognizing Textual Entailment as an NLP Evaluation.,arXiv 2020,https://arxiv.org/pdf/2010.03061.pdf,2010.03061,True,1
+1568,The NLP,Resources and Evaluation,Beyond Counting Datasets: A Survey of Multilingual Dataset Construction and Necessary Resources.,EMNLP 2022,https://arxiv.org/pdf/2211.15649.pdf,2211.15649,True,1
+1576,The NLP,Resources and Evaluation,Critical Survey of the Freely Available Arabic Corpora.,arXiv 2017,https://arxiv.org/abs/1702.07835,1702.07835,True,1
+1580,The NLP,Resources and Evaluation,Efficient Methods for Natural Language Processing: A Survey.,arXiv 2022,https://arxiv.org/pdf/2209.00099.pdf,2209.00099,True,2
+1584,The NLP,Resources and Evaluation,"Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches.",arXiv 2019,https://arxiv.org/abs/1904.01172,1904.01172,True,2
+1588,The NLP,Resources and Evaluation,Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text.,arXiv 2022,https://arxiv.org/pdf/2202.06935.pdf,2202.06935,True,1
+1592,The NLP,Resources and Evaluation,Survey on Evaluation Methods for Dialogue Systems.,Artif. Intell. Rev. 2021,https://arxiv.org/abs/1905.04071,1905.04071,True,1
+1596,The NLP,Resources and Evaluation,Survey on Publicly Available Sinhala Natural Language Processing Tools and Research.,arXiv 2019,https://arxiv.org/abs/1906.02358,1906.02358,True,2
+1600,The NLP,Resources and Evaluation,The Great Misalignment Problem in Human Evaluation of NLP Methods.,arXiv 2021,https://arxiv.org/abs/2104.05361,2104.05361,True,1
+1604,The NLP,Resources and Evaluation,Towards Standard Criteria for human evaluation of Chatbots: A Survey.,arXiv 2021,https://arxiv.org/abs/2105.11197,2105.11197,True,1
+1610,The NLP,Semantics,A reproducible experimental survey on biomedical sentence similarity: a string-based method sets the state of the art.,arXiv 2022,https://arxiv.org/pdf/2205.08740.pdf,2205.08740,True,1
+1618,The NLP,Semantics,A survey of loss functions for semantic segmentation.,CIBCB 2020,https://arxiv.org/abs/2006.14822,2006.14822,True,2
+1622,The NLP,Semantics,A Survey of Paraphrasing and Textual Entailment Methods.,J. Artif. Intell. Res. 2010,https://arxiv.org/abs/0912.3747,0912.3747,True,1
+1626,The NLP,Semantics,A Survey of Syntactic-Semantic Parsing Based on Constituent and Dependency Structures.,arXiv 2020,http://arxiv.org/pdf/2006.11056.pdf,2006.11056,True,2
+1630,The NLP,Semantics,A Survey on Semantic Parsing.,AKBC 2019,https://arxiv.org/pdf/1812.00978,1812.00978,True,2
+1634,The NLP,Semantics,Argument Linking: A Survey and Forecast.,arXiv 2021,https://arxiv.org/pdf/2107.08523.pdf,2107.08523,True,1
+1638,The NLP,Semantics,Corpus-Based Paraphrase Detection Experiments and Review.,Inf. 2020,https://arxiv.org/abs/2106.00145,2106.00145,True,1
+1642,The NLP,Semantics,Diachronic word embeddings and semantic shifts: a survey.,COLING 2018,https://arxiv.org/abs/1806.03537,1806.03537,True,1
+1646,The NLP,Semantics,Distributional Measures of Semantic Distance: A Survey.,arXiv 2012,https://arxiv.org/abs/1203.1858,1203.1858,True,1
+1650,The NLP,Semantics,Evolution of Semantic Similarity - A Survey.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2004.13820,2004.13820,True,1
+1654,The NLP,Semantics,Measuring Sentences Similarity: A Survey.,arXiv 2019,https://arxiv.org/abs/1910.03940,1910.03940,True,1
+1662,The NLP,Semantics,"Semantics, Modelling, and the Problem of Representation of Meaning - a Brief Survey of Recent Literature.",arXiv 2014,https://arxiv.org/abs/1402.7265,1402.7265,True,1
+1666,The NLP,Semantics,Survey of Computational Approaches to Lexical Semantic Change.,arXiv 2018,https://arxiv.org/abs/1811.06278,1811.06278,True,1
+1674,The NLP,Semantics,Word sense disambiguation: a survey.,IJCTCM 2015,https://arxiv.org/abs/1508.01346,1508.01346,True,1
+1688,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",A Comprehensive Survey on Aspect Based Sentiment Analysis.,arXiv 2020,https://arxiv.org/abs/2006.04611,2006.04611,True,1
+1696,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",A Survey On Semantic Steganography Systems.,arXiv 2022,https://arxiv.org/pdf/2203.12425.pdf,2203.12425,True,1
+1700,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",A Survey on Sentiment and Emotion Analysis for Computational Literary Studies.,arXiv 2018,https://arxiv.org/abs/1808.03137,1808.03137,True,1
+1708,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research.,arXiv 2020,https://arxiv.org/abs/2005.00357,2005.00357,True,1
+1716,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Deep Learning for Sentiment Analysis : A Survey.,arXiv 2018,https://arxiv.org/abs/1801.07883,1801.07883,True,1
+1724,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Fine-grained Financial Opinion Mining: A Survey and Research Agenda.,arXiv 2020,https://arxiv.org/pdf/2005.01897.pdf,2005.01897,True,1
+1728,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",On Positivity Bias in Negative Reviews.,ACL 2021,https://arxiv.org/abs/2106.12056,2106.12056,True,1
+1732,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Sarcasm Detection: A Comparative Study.,arXiv 2021,https://arxiv.org/abs/2107.02276,2107.02276,True,1
+1740,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Sentiment analysis for Arabic language: A brief survey of approaches and techniques.,arXiv 2018,https://arxiv.org/abs/1809.02782,1809.02782,True,1
+1744,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Sentiment Analysis of Czech Texts: An Algorithmic Survey.,ICAART 2019,https://arxiv.org/abs/1901.02780,1901.02780,True,1
+1748,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Sentiment Analysis of Twitter Data: A Survey of Techniques.,IJCAI 2016,https://arxiv.org/abs/1601.06971,1601.06971,True,1
+1752,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Sentiment Analysis on YouTube: A Brief Survey.,arXiv 2015,https://arxiv.org/abs/1511.09142,1511.09142,True,1
+1756,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Sentiment/Subjectivity Analysis Survey for Languages other than English.,Soc. Netw. Anal. Min. 2016,https://arxiv.org/abs/1601.00087,1601.00087,True,1
+1760,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Survey of Aspect-based Sentiment Analysis Datasets.,arXiv 2022,https://arxiv.org/pdf/2204.05232.pdf,2204.05232,True,1
+1768,The NLP,"Sentiment Analysis, Stylistic Analysis and Argument Mining",Word Embeddings for Sentiment Analysis: A Comprehensive Empirical Survey.,arXiv 2019,https://arxiv.org/abs/1902.00753,1902.00753,True,1
+1774,The NLP,Speech and Multimodality,A Comparative Analysis of Techniques and Algorithms for Recognising Sign Language.,arXiv 2023,https://arxiv.org/abs/2305.13941,2305.13941,True,1
+1778,The NLP,Speech and Multimodality,A Comprehensive Survey on Cross-modal Retrieval.,arXiv 2016,https://arxiv.org/abs/1607.06215,1607.06215,True,1
+1782,The NLP,Speech and Multimodality,A Multimodal Memes Classification: A Survey and Open Research Issues.,arXiv 2020,https://arxiv.org/abs/2009.08395,2009.08395,True,1
+1786,The NLP,Speech and Multimodality,A Survey : Neural Networks for AMR-to-Text.,arXiv 2022,https://arxiv.org/pdf/2206.07328.pdf,2206.07328,True,1
+1790,The NLP,Speech and Multimodality,A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis.,WIREs Data Mining Knowl. Discov. 2020,https://arxiv.org/abs/1910.09399,1910.09399,True,1
+1794,The NLP,Speech and Multimodality,A Survey of Code-switched Speech and Language Processing.,arXiv 2019,https://arxiv.org/abs/1904.00784,1904.00784,True,1
+1798,The NLP,Speech and Multimodality,A Survey of Deep Learning Approaches for OCR and Document Understanding.,arXiv 2020,https://arxiv.org/pdf/2011.13534.pdf,2011.13534,True,1
+1802,The NLP,Speech and Multimodality,A Survey of Recent DNN Architectures on the TIMIT Phone Recognition Task.,TSD 2018,https://arxiv.org/abs/1806.07974,1806.07974,True,1
+1810,The NLP,Speech and Multimodality,A Survey of Voice Translation Methodologies - Acoustic Dialect Decoder.,arXiv 2016,https://arxiv.org/abs/1610.03934,1610.03934,True,1
+1814,The NLP,Speech and Multimodality,A Survey on Neural Speech Synthesis.,arXiv 2021,https://arxiv.org/pdf/2106.15561.pdf,2106.15561,True,1
+1818,The NLP,Speech and Multimodality,A Survey on Spoken Language Understanding: Recent Advances and New Frontiers.,IJCAI 2021,https://arxiv.org/abs/2103.03095,2103.03095,True,1
+1822,The NLP,Speech and Multimodality,A Thorough Review on Recent Deep Learning Methodologies for Image Captioning.,arXiv 2021,https://arxiv.org/pdf/2107.13114.pdf,2107.13114,True,1
+1826,The NLP,Speech and Multimodality,Accented Speech Recognition: A Survey.,arXiv 2021,https://arxiv.org/abs/2104.10747,2104.10747,True,1
+1830,The NLP,Speech and Multimodality,"Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures.",J. Artif. Intell. Res. 2016,https://arxiv.org/abs/1601.03896,1601.03896,True,1
+1834,The NLP,Speech and Multimodality,Automatic Speech Recognition And Limited Vocabulary: A Survey.,arXiv 2021,https://arxiv.org/pdf/2108.10254.pdf,2108.10254,True,1
+1842,The NLP,Speech and Multimodality,Image Captioning based on Deep Learning Methods: A Survey.,arXiv 2019,https://arxiv.org/abs/1905.08110,1905.08110,True,1
+1846,The NLP,Speech and Multimodality,"Learning in Audio-visual Context: A Review, Analysis, and New Perspective.",arXiv 2022,https://arxiv.org/pdf/2208.09579.pdf,2208.09579,True,1
+1854,The NLP,Speech and Multimodality,Multimodal Learning with Transformers: A Survey.,arXiv 2022,https://arxiv.org/pdf/2206.06488.pdf,2206.06488,True,1
+1858,The NLP,Speech and Multimodality,Multimodal Machine Learning: A Survey and Taxonomy.,IEEE Trans. Pattern Anal. Mach. Intell. 2019,https://arxiv.org/abs/1705.09406,1705.09406,True,2
+1862,The NLP,Speech and Multimodality,Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision.,Int. J. Comput. Vis. 2022,https://arxiv.org/abs/2103.04037,2103.04037,True,1
+1866,The NLP,Speech and Multimodality,Reasoning about Actions over Visual and Linguistic Modalities: A Survey.,arXiv 2022,https://arxiv.org/pdf/2207.07568.pdf,2207.07568,True,1
+1870,The NLP,Speech and Multimodality,Recent Advances and Trends in Multimodal Deep Learning: A Review.,arXiv 2021,https://arxiv.org/pdf/2105.11087.pdf,2105.11087,True,1
+1874,The NLP,Speech and Multimodality,Referring Expression Comprehension: A Survey of Methods and Datasets.,IEEE Trans. Multim. 2021,https://arxiv.org/abs/2007.09554,2007.09554,True,1
+1878,The NLP,Speech and Multimodality,Review of end-to-end speech synthesis technology based on deep learning.,arXiv 2021,https://arxiv.org/abs/2104.09995,2104.09995,True,1
+1886,The NLP,Speech and Multimodality,Survey: Transformer based Video-Language Pre-training.,AI Open 2022,https://arxiv.org/pdf/2109.09920.pdf,2109.09920,True,2
+1890,The NLP,Speech and Multimodality,Text Detection and Recognition in the Wild: A Review.,arXiv 2020,https://arxiv.org/abs/2006.04305,2006.04305,True,1
+1894,The NLP,Speech and Multimodality,Text Recognition in the Wild: A Survey.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2005.03492,2005.03492,True,1
+1898,The NLP,Speech and Multimodality,Thank you for Attention: A survey on Attention-based Artificial Neural Networks for Automatic Speech Recognition.,arXiv 2021,https://arxiv.org/abs/2102.07259,2102.07259,True,1
+1902,The NLP,Speech and Multimodality,Unsupervised Automatic Speech Recognition: A Review.,arXiv 2021,https://arxiv.org/abs/2106.04897,2106.04897,True,1
+1910,The NLP,Speech and Multimodality,Vision + Language Applications: A Survey.,arXiv 2023,https://arxiv.org/abs/2305.14598,2305.14598,True,1
+1918,The NLP,Speech and Multimodality,Visual Question Answering: A Survey of Methods and Datasets.,Comput. Vis. Image Underst. 2017,https://arxiv.org/pdf/1607.05910.pdf,1607.05910,True,1
+1922,The NLP,Speech and Multimodality,"Visual Question Answering: Datasets, Algorithms, and Future Challenges.",Comput. Vis. Image Underst. 2017,https://arxiv.org/pdf/1610.01465.pdf,1610.01465,True,1
+1926,The NLP,Speech and Multimodality,VLP: A Survey on Vision-Language Pre-training.,Int. J. Autom. Comput. 2023,https://arxiv.org/pdf/2202.09061.pdf,2202.09061,True,2
+1936,The NLP,Summarization,A Survey on Cross-Lingual Summarization.,Trans. Assoc. Comput. Linguistics 2022,https://arxiv.org/pdf/2203.12515.pdf,2203.12515,True,1
+1940,The NLP,Summarization,A Survey on Dialogue Summarization: Recent Advances and New Frontiers.,IJCAI 2022,https://arxiv.org/pdf/2107.03175,2107.03175,True,1
+1944,The NLP,Summarization,A Survey on Neural Network-Based Summarization Methods.,arXiv 2018,https://arxiv.org/abs/1804.04589,1804.04589,True,1
+1948,The NLP,Summarization,Abstractive Meeting Summarization: A Survey.,arXiv 2022,https://arxiv.org/pdf/2208.04163.pdf,2208.04163,True,1
+1956,The NLP,Summarization,Automated text summarisation and evidence-based medicine: A survey of two domains.,arXiv 2017,https://arxiv.org/abs/1706.08162,1706.08162,True,1
+1960,The NLP,Summarization,Automatic Keyword Extraction for Text Summarization: A Survey.,arXiv 2017,https://arxiv.org/abs/1704.03242,1704.03242,True,1
+1972,The NLP,Summarization,From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information.,IJCAI 2020,https://arxiv.org/abs/2005.04684,2005.04684,True,1
+1980,The NLP,Summarization,"Knowledge-aware Document Summarization: A Survey of Knowledge, Embedding Methods and Architectures.",Knowl. Based Syst. 2022,https://arxiv.org/pdf/2204.11190.pdf,2204.11190,True,1
+1984,The NLP,Summarization,Multi-document Summarization via Deep Learning Techniques: A Survey.,ACM Comput. Surv. 2023,http://arxiv.org/pdf/2011.04843.pdf,2011.04843,True,1
+1988,The NLP,Summarization,Neural Abstractive Text Summarization with Sequence-to-Sequence Models.,Trans. Data Sci. 2021,https://arxiv.org/abs/1812.02303,1812.02303,True,1
+1996,The NLP,Summarization,Text Summarization Techniques: A Brief Survey.,arXiv 2017,https://arxiv.org/abs/1707.02268,1707.02268,True,1
+2000,The NLP,Summarization,The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey.,arXiv 2021,https://arxiv.org/pdf/2104.14839,2104.14839,True,1
+2010,The NLP,"Tagging, Chunking, Syntax and Parsing",A survey of cross-lingual features for zero-shot cross-lingual semantic parsing.,arXiv 2019,https://arxiv.org/abs/1908.10461,1908.10461,True,1
+2014,The NLP,"Tagging, Chunking, Syntax and Parsing",A Survey of Syntactic-Semantic Parsing Based on Constituent and Dependency Structures.,arXiv 2020,http://arxiv.org/pdf/2006.11056.pdf,2006.11056,True,2
+2018,The NLP,"Tagging, Chunking, Syntax and Parsing",A Survey on Recent Advances in Sequence Labeling from Deep Learning Models.,arXiv 2020,https://arxiv.org/abs/2011.06727,2011.06727,True,1
+2022,The NLP,"Tagging, Chunking, Syntax and Parsing",A Survey on Semantic Parsing.,AKBC 2019,https://arxiv.org/abs/1812.00978,1812.00978,True,2
+2026,The NLP,"Tagging, Chunking, Syntax and Parsing",A Survey on Semantic Parsing from the perspective of Compositionality.,arXiv 2020,https://arxiv.org/pdf/2009.14116.pdf,2009.14116,True,1
+2030,The NLP,"Tagging, Chunking, Syntax and Parsing","A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions.",arXiv 2022,https://arxiv.org/pdf/2208.13629.pdf,2208.13629,True,2
+2034,The NLP,"Tagging, Chunking, Syntax and Parsing",Context Dependent Semantic Parsing: A Survey.,COLING 2020,https://arxiv.org/pdf/2011.00797.pdf,2011.00797,True,1
+2038,The NLP,"Tagging, Chunking, Syntax and Parsing",Design Challenges and Misconceptions in Neural Sequence Labeling.,COLING 2018,https://arxiv.org/abs/1806.04470,1806.04470,True,2
+2054,The NLP,"Tagging, Chunking, Syntax and Parsing",Syntax Representation in Word Embeddings and Neural Networks - A Survey.,ITAT 2020,http://arxiv.org/pdf/2010.01063.pdf,2010.01063,True,1
+2058,The NLP,"Tagging, Chunking, Syntax and Parsing",The Gap of Semantic Parsing: A Survey on Automatic Math Word Problem Solvers.,IEEE Trans. Pattern Anal. Mach. Intell. 2020,https://arxiv.org/abs/1808.07290,1808.07290,True,1
+2064,The NLP,Text Classification,A Survey of Active Learning for Text Classification using Deep Neural Networks.,arXiv 2020,https://arxiv.org/abs/2008.07267,2008.07267,True,1
+2068,The NLP,Text Classification,A Survey of Naïve Bayes Machine Learning approach in Text Document Classification.,arXiv 2010,https://arxiv.org/abs/1003.1795,1003.1795,True,1
+2072,The NLP,Text Classification,A Survey on Data Augmentation for Text Classification.,ACM Comput. Surv. 2023,https://arxiv.org/abs/2107.03158,2107.03158,True,1
+2076,The NLP,Text Classification,A Survey on Natural Language Processing for Fake News Detection.,LREC 2020,https://arxiv.org/abs/1811.00770,1811.00770,True,1
+2080,The NLP,Text Classification,A survey on phrase structure learning methods for text classification.,arXiv 2014,https://arxiv.org/abs/1406.5598,1406.5598,True,1
+2084,The NLP,Text Classification,A Survey on Stance Detection for Mis- and Disinformation Identification.,NAACL-HLT 2022,https://arxiv.org/abs/2103.00242,2103.00242,True,1
+2088,The NLP,Text Classification,A Survey on Text Classification: From Shallow to Deep Learning.,arXiv 2020,https://arxiv.org/pdf/2008.00364.pdf,2008.00364,True,1
+2092,The NLP,Text Classification,Automatic Language Identification in Texts: A Survey.,J. Artif. Intell. Res. 2019,https://arxiv.org/abs/1804.08186,1804.08186,True,1
+2096,The NLP,Text Classification,Deep Learning-based Text Classification: A Comprehensive Review.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2004.03705,2004.03705,True,1
+2100,The NLP,Text Classification,Fake News Detection using Stance Classification: A Survey.,arXiv 2019,https://arxiv.org/abs/1907.00181,1907.00181,True,1
+2104,The NLP,Text Classification,"Out-of-Distribution Generalization in Text Classification: Past, Present, and Future.",arXiv 2023,https://arxiv.org/abs/2305.14104,2305.14104,True,1
+2112,The NLP,Text Classification,Text Classification Algorithms: A Survey.,Inf. 2019,https://arxiv.org/abs/1904.08067,1904.08067,True,1
+2120,The ML,Architectures,A General Survey on Attention Mechanisms in Deep Learning.,arXiv 2022,https://arxiv.org/abs/2203.14263.pdf,2203.14263,True,1
+2124,The ML,Architectures,A Practical Survey on Faster and Lighter Transformers.,arXiv 2021,https://arxiv.org/pdf/2103.14636.pdf,2103.14636,True,1
+2132,The ML,Architectures,A Review of Sparse Expert Models in Deep Learning.,arXiv 2022,https://arxiv.org/pdf/2209.01667.pdf,2209.01667,True,1
+2140,The ML,Architectures,"A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects.",arXiv 2020,https://arxiv.org/abs/2004.02806,2004.02806,True,1
+2144,The ML,Architectures,A Survey of End-to-End Driving: Architectures and Training Methods.,arXiv 2020,https://arxiv.org/abs/2003.06404,2003.06404,True,1
+2152,The ML,Architectures,A Survey of Transformers.,AI Open 2022,https://arxiv.org/pdf/2106.04554.pdf,2106.04554,True,1
+2156,The ML,Architectures,A Survey on Activation Functions and their relation with Xavier and He Normal Initialization.,arXiv 2020,https://arxiv.org/abs/2004.06632,2004.06632,True,1
+2160,The ML,Architectures,A Survey on Latent Tree Models and Applications.,J. Artif. Intell. Res. 2013,https://arxiv.org/abs/1402.0577,1402.0577,True,1
+2164,The ML,Architectures,A survey on modern trainable activation functions.,Neural Networks 2021,https://arxiv.org/abs/2005.00817,2005.00817,True,1
+2168,The ML,Architectures,A Survey on Vision Transformer.,IEEE Trans. Pattern Anal. Mach. Intell. 2023,https://arxiv.org/abs/2012.12556,2012.12556,True,1
+2172,The ML,Architectures,An Attentive Survey of Attention Models.,ACM Trans. Intell. Syst. Technol. 2021,https://arxiv.org/abs/1904.02874,1904.02874,True,1
+2176,The ML,Architectures,An Introduction to Autoencoders.,arXiv 2022,https://arxiv.org/pdf/2201.03898.pdf,2201.03898,True,1
+2180,The ML,Architectures,Attention mechanisms and deep learning for machine vision: A survey of the state of the art.,arXiv 2021,https://arxiv.org/pdf/2106.07550.pdf,2106.07550,True,1
+2184,The ML,Architectures,Attention Mechanisms in Computer Vision: A Survey.,Comput. Vis. Media 2022,https://arxiv.org/pdf/2111.07624.pdf,2111.07624,True,1
+2188,The ML,Architectures,Big Networks: A Survey.,Comput. Sci. Rev. 2020,https://arxiv.org/abs/2008.03638,2008.03638,True,1
+2192,The ML,Architectures,Binary Neural Networks: A Survey.,Pattern Recognit. 2020,https://arxiv.org/abs/2004.03333,2004.03333,True,1
+2196,The ML,Architectures,Deep Echo State Network (DeepESN): A Brief Survey.,arXiv 2017,https://arxiv.org/abs/1712.04323,1712.04323,True,1
+2200,The ML,Architectures,Deep Tree Transductions - A Short Survey.,INNSBDDL 2019,https://arxiv.org/abs/1902.01737,1902.01737,True,1
+2204,The ML,Architectures,Efficient Transformers: A Survey.,ACM Comput. Surv. 2023,https://arxiv.org/abs/2009.06732,2009.06732,True,1
+2208,The ML,Architectures,Learning with Capsules: A Survey.,arXiv 2022,https://arxiv.org/pdf/2206.02664.pdf,2206.02664,True,1
+2212,The ML,Architectures,On the Opportunity of Causal Deep Generative Models: A Survey and Future Directions.,arXiv 2023,https://arxiv.org/pdf/2301.12351.pdf,2301.12351,True,1
+2216,The ML,Architectures,"Pooling Methods in Deep Neural Networks, a Review.",arXiv 2020,https://arxiv.org/abs/2009.07485,2009.07485,True,1
+2220,The ML,Architectures,Position Information in Transformers: An Overview.,Comput. Linguistics 2022,https://arxiv.org/abs/2102.11090,2102.11090,True,1
+2224,The ML,Architectures,Recent Advances in Convolutional Neural Networks.,Pattern Recognit. 2018,https://arxiv.org/abs/1512.07108,1512.07108,True,1
+2232,The ML,Architectures,Survey of Dropout Methods for Deep Neural Networks.,arXiv 2019,https://arxiv.org/abs/1904.13310,1904.13310,True,1
+2236,The ML,Architectures,Survey on the attention based RNN model and its applications in computer vision.,arXiv 2016,https://arxiv.org/abs/1601.06823,1601.06823,True,1
+2240,The ML,Architectures,The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches.,arXiv 2018,https://arxiv.org/abs/1803.01164,1803.01164,True,1
+2244,The ML,Architectures,The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures.,IEEE Access 2021,https://arxiv.org/pdf/2104.10640.pdf,2104.10640,True,1
+2248,The ML,Architectures,Transformers in Vision: A Survey.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2101.01169,2101.01169,True,1
+2252,The ML,Architectures,Understanding LSTM - a tutorial into Long Short-Term Memory Recurrent Neural Networks.,arXiv 2019,https://arxiv.org/abs/1909.09586,1909.09586,True,1
+2258,The ML,AutoML,A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2006.02903,2006.02903,True,1
+2262,The ML,AutoML,A Comprehensive Survey on Automated Machine Learning for Recommendations.,arXiv 2022,https://arxiv.org/abs/2204.01390,2204.01390,True,1
+2266,The ML,AutoML,A Comprehensive Survey on Hardware-Aware Neural Architecture Search.,arXiv 2021,https://arxiv.org/abs/2101.09336,2101.09336,True,1
+2270,The ML,AutoML,A Review of Meta-Reinforcement Learning for Deep Neural Networks Architecture Search.,arXiv 2018,https://arxiv.org/pdf/1812.07995.pdf,1812.07995,True,1
+2274,The ML,AutoML,A Survey on Neural Architecture Search.,arXiv 2019,https://arxiv.org/abs/1905.01392,1905.01392,True,1
+2278,The ML,AutoML,Automated Machine Learning on Graphs: A Survey.,IJCAI 2021,https://arxiv.org/abs/2103.00742,2103.00742,True,1
+2282,The ML,AutoML,AutoML for Deep Recommender Systems: A Survey.,arXiv 2022,https://arxiv.org/pdf/2203.13922.pdf,2203.13922,True,2
+2286,The ML,AutoML,AutoML: A Survey of the State-of-the-Art.,Knowl. Based Syst. 2021,https://arxiv.org/abs/1908.00709,1908.00709,True,1
+2294,The ML,AutoML,Neural Architecture Search: A Survey.,J. Mach. Learn. Res. 2019,https://arxiv.org/abs/1808.05377,1808.05377,True,1
+2302,The ML,AutoML,"Survey on Evolutionary Deep Learning: Principles, Algorithms, Applications and Open Issues.",arXiv 2022,https://arxiv.org/pdf/2208.10658.pdf,2208.10658,True,1
+2308,The ML,Bayesian Methods,A survey of non-exchangeable priors for Bayesian nonparametric models.,IEEE Trans. Pattern Anal. Mach. Intell. 2015,https://arxiv.org/abs/1211.4798,1211.4798,True,1
+2312,The ML,Bayesian Methods,A Survey on Bayesian Deep Learning.,ACM Comput. Surv. 2021,http://arxiv.org/abs/1604.01662,1604.01662,True,1
+2316,The ML,Bayesian Methods,Bayesian Neural Networks: An Introduction and Survey.,arXiv 2020,https://arxiv.org/abs/2006.12024,2006.12024,True,1
+2320,The ML,Bayesian Methods,Bayesian Nonparametric Space Partitions: A Survey.,IJCAI 2021,https://arxiv.org/abs/2002.11394,2002.11394,True,1
+2324,The ML,Bayesian Methods,"Deep Bayesian Active Learning, A Brief Survey on Recent Advances.",arXiv 2020,http://arxiv.org/pdf/2012.08044.pdf,2012.08044,True,1
+2328,The ML,Bayesian Methods,Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users.,arXiv 2020,https://arxiv.org/abs/2007.06823,2007.06823,True,1
+2338,The ML,"Classification, Clustering and Regression",A continual learning survey: Defying forgetting in classification tasks.,IEEE Trans. Pattern Anal. Mach. Intell. 2022,https://arxiv.org/pdf/1909.08383.pdf,1909.08383,True,1
+2342,The ML,"Classification, Clustering and Regression",A Survey of Classification Techniques in the Area of Big Data.,arXiv 2015,https://arxiv.org/abs/1503.07477,1503.07477,True,1
+2346,The ML,"Classification, Clustering and Regression",A Survey of Constrained Gaussian Process Regression: Approaches and Implementation Challenges.,arXiv 2020,https://arxiv.org/abs/2006.09319,2006.09319,True,1
+2350,The ML,"Classification, Clustering and Regression","A Survey of Deep Graph Clustering: Taxonomy, Challenge, and Application.",arXiv 2022,https://arxiv.org/pdf/2211.12875.pdf,2211.12875,True,1
+2354,The ML,"Classification, Clustering and Regression",A Survey of Machine Learning Methods and Challenges for Windows Malware Classification.,arXiv 2020,https://arxiv.org/abs/2006.09271,2006.09271,True,1
+2358,The ML,"Classification, Clustering and Regression",A Survey of Methods for Managing the Classification and Solution of Data Imbalance Problem.,arXiv 2020,https://arxiv.org/abs/2012.11870,2012.11870,True,1
+2362,The ML,"Classification, Clustering and Regression","A Survey of Techniques All Classifiers Can Learn from Deep Networks: Models, Optimizations, and Regularization.",arXiv 2019,https://arxiv.org/pdf/1909.04791.pdf,1909.04791,True,1
+2366,The ML,"Classification, Clustering and Regression",A Survey on Multi-View Clustering.,arXiv 2017,https://arxiv.org/abs/1712.06246,1712.06246,True,1
+2370,The ML,"Classification, Clustering and Regression",Comprehensive Comparative Study of Multi-Label Classification Methods.,Expert Syst. Appl. 2022,https://arxiv.org/abs/2102.07113,2102.07113,True,1
+2374,The ML,"Classification, Clustering and Regression",Deep Clustering: A Comprehensive Survey.,arXiv 2022,https://arxiv.org/pdf/2210.04142.pdf,2210.04142,True,1
+2378,The ML,"Classification, Clustering and Regression",Deep learning for time series classification: a review.,Data Min. Knowl. Discov. 2019,https://arxiv.org/abs/1809.04356,1809.04356,True,1
+2382,The ML,"Classification, Clustering and Regression",How Complex is your classification problem? A survey on measuring classification complexity.,arXiv 2018,https://arxiv.org/abs/1808.03591,1808.03591,True,1
+2388,The ML,Computer Vision,3D Human Motion Prediction: A Survey.,Neurocomputing 2022,https://arxiv.org/abs/2203.01593,2203.01593,True,1
+2392,The ML,Computer Vision,3D Object Detection for Autonomous Driving: A Survey.,Pattern Recognit. 2022,https://arxiv.org/pdf/2106.10823.pdf,2106.10823,True,1
+2396,The ML,Computer Vision,3D Object Detection from Images for Autonomous Driving: A Survey.,arXiv 2022,https://arxiv.org/pdf/2202.02980.pdf,2202.02980,True,1
+2400,The ML,Computer Vision,3D Vision with Transformers: A Survey.,arXiv 2022,https://arxiv.org/pdf/2208.04309.pdf,2208.04309,True,1
+2404,The ML,Computer Vision,A Survey of Automated Data Augmentation Algorithms for Deep Learning-based Image Classification Tasks.,arXiv 2022,https://arxiv.org/pdf/2206.06544.pdf,2206.06544,True,2
+2408,The ML,Computer Vision,A Survey of Black-Box Adversarial Attacks on Computer Vision Models.,arXiv 2019,https://arxiv.org/pdf/1912.01667.pdf,1912.01667,True,1
+2412,The ML,Computer Vision,"A Survey of Deep Face Restoration: Denoise, Super-Resolution, Deblur, Artifact Removal.",arXiv 2022,https://arxiv.org/abs/2211.02831,2211.02831,True,1
+2416,The ML,Computer Vision,A survey of loss functions for semantic segmentation.,CIBCB 2020,https://arxiv.org/pdf/2006.14822.pdf,2006.14822,True,2
+2420,The ML,Computer Vision,A Survey of Modern Deep Learning based Object Detection Models.,Digit. Signal Process. 2022,https://arxiv.org/pdf/2104.11892.pdf,2104.11892,True,1
+2424,The ML,Computer Vision,A survey of top-down approaches for human pose estimation.,arXiv 2022,https://arxiv.org/pdf/2202.02656.pdf,2202.02656,True,1
+2432,The ML,Computer Vision,A Survey of Visual Sensory Anomaly Detection.,arXiv 2022,https://arxiv.org/pdf/2202.07006.pdf,2202.07006,True,1
+2436,The ML,Computer Vision,A Survey of Visual Transformers.,arXiv 2021,https://arxiv.org/pdf/2111.06091.pdf,2111.06091,True,1
+2440,The ML,Computer Vision,"A survey on applications of augmented, mixed and virtual reality for nature and environment.",HCI 2021,https://arxiv.org/abs/2008.12024,2008.12024,True,1
+2444,The ML,Computer Vision,A survey on deep hashing for image retrieval.,arXiv 2020,https://arxiv.org/abs/2006.05627,2006.05627,True,1
+2448,The ML,Computer Vision,A Survey on Deep Learning in Medical Image Analysis.,Medical Image Anal. 2017,https://arxiv.org/abs/1702.05747,1702.05747,True,1
+2452,The ML,Computer Vision,A Survey on Deep Learning Technique for Video Segmentation.,arXiv 2021,https://arxiv.org/pdf/2107.01153.pdf,2107.01153,True,1
+2456,The ML,Computer Vision,A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective.,arXiv 2022,https://arxiv.org/pdf/2209.13232.pdf,2209.13232,True,2
+2460,The ML,Computer Vision,A Survey on Label-efficient Deep Image Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction.,IEEE Trans. Pattern Anal. Mach. Intell. 2022,https://arxiv.org/abs/2207.01223,2207.01223,True,1
+2464,The ML,Computer Vision,A Survey on Visual Map Localization Using LiDARs and Cameras.,arXiv 2022,https://arxiv.org/pdf/2208.03376.pdf,2208.03376,True,1
+2468,The ML,Computer Vision,A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation.,ICCVW 2021,https://arxiv.org/pdf/2108.09522.pdf,2108.09522,True,1
+2472,The ML,Computer Vision,Advances in adversarial attacks and defenses in computer vision: A survey.,IEEE Access 2021,https://arxiv.org/pdf/2108.00401.pdf,2108.00401,True,1
+2476,The ML,Computer Vision,Adversarial Examples on Object Recognition: A Comprehensive Survey.,ACM Comput. Surv. 2021,https://arxiv.org/abs/2008.04094,2008.04094,True,1
+2480,The ML,Computer Vision,Adversarial Machine Learning in Image Classification: A Survey Towards the Defender's Perspective.,arXiv 2020,https://arxiv.org/pdf/2009.03728.pdf,2009.03728,True,1
+2484,The ML,Computer Vision,Affective Image Content Analysis: Two Decades Review and New Perspectives.,IEEE Trans. Pattern Anal. Mach. Intell. 2022,https://arxiv.org/pdf/2106.16125.pdf,2106.16125,True,1
+2488,The ML,Computer Vision,Applications of Artificial Neural Networks in Microorganism Image Analysis: A Comprehensive Review from Conventional Multilayer Perceptron to Popular Convolutional Neural Network and Potential Visual Transformer.,arXiv 2021,https://arxiv.org/pdf/2108.00358.pdf,2108.00358,True,1
+2492,The ML,Computer Vision,Automatic Gaze Analysis: A Survey of Deep Learning based Approaches.,arXiv 2021,https://arxiv.org/pdf/2108.05479.pdf,2108.05479,True,1
+2496,The ML,Computer Vision,Bridging Gap between Image Pixels and Semantics via Supervision: A Survey.,arXiv 2021,https://arxiv.org/pdf/2107.13757.pdf,2107.13757,True,1
+2500,The ML,Computer Vision,Compositional Scene Representation Learning via Reconstruction: A Survey.,arXiv 2022,https://arxiv.org/pdf/2202.07135.pdf,2202.07135,True,1
+2508,The ML,Computer Vision,Deep Image Deblurring: A Survey.,Int. J. Comput. Vis. 2022,https://arxiv.org/pdf/2201.10700.pdf,2201.10700,True,1
+2512,The ML,Computer Vision,Deep Learning for 3D Point Cloud Understanding: A Survey.,arXiv 2020,https://arxiv.org/abs/2009.08920,2009.08920,True,1
+2516,The ML,Computer Vision,Deep Learning for Embodied Vision Navigation: A Survey.,arXiv 2021,https://arxiv.org/pdf/2108.04097.pdf,2108.04097,True,1
+2520,The ML,Computer Vision,Deep Learning for Image Super-resolution: A Survey.,IEEE Trans. Pattern Anal. Mach. Intell. 2021,https://arxiv.org/abs/1902.06068,1902.06068,True,1
+2524,The ML,Computer Vision,Deep Learning for Instance Retrieval: A Survey.,IEEE Trans. Pattern Anal. Mach. Intell. 2021,https://arxiv.org/pdf/2101.11282.pdf,2101.11282,True,1
+2528,The ML,Computer Vision,Deep Learning for Scene Classification: A Survey.,arXiv 2021,https://arxiv.org/abs/2101.10531,2101.10531,True,1
+2532,The ML,Computer Vision,Deep Learning Technique for Human Parsing: A Survey and Outlook.,arXiv 2023,https://arxiv.org/pdf/2301.00394.pdf,2301.00394,True,1
+2536,The ML,Computer Vision,Efficient High-Resolution Deep Learning: A Survey.,arXiv 2022,https://arxiv.org/pdf/2207.13050.pdf,2207.13050,True,1
+2540,The ML,Computer Vision,Geometric and Learning-based Mesh Denoising: A Comprehensive Survey.,arXiv 2022,https://arxiv.org/pdf/2209.00841.pdf,2209.00841,True,1
+2544,The ML,Computer Vision,Image Segmentation Using Deep Learning: A Survey.,IEEE Trans. Pattern Anal. Mach. Intell. 2022,https://arxiv.org/pdf/2001.05566.pdf,2001.05566,True,1
+2548,The ML,Computer Vision,Image/Video Deep Anomaly Detection: A Survey.,arXiv 2021,https://arxiv.org/abs/2103.01739,2103.01739,True,1
+2552,The ML,Computer Vision,Image-to-Image Translation: Methods and Applications.,IEEE Trans. Multim. 2022,https://arxiv.org/abs/2101.08629,2101.08629,True,1
+2556,The ML,Computer Vision,Imbalance Problems in Object Detection: A Review.,IEEE Trans. Pattern Anal. Mach. Intell. 2021,https://arxiv.org/abs/1909.00169,1909.00169,True,1
+2560,The ML,Computer Vision,MmWave Radar and Vision Fusion for Object Detection in Autonomous Driving: A Review.,Sensors 2022,https://arxiv.org/pdf/2108.03004.pdf,2108.03004,True,1
+2564,The ML,Computer Vision,Multi-modal Sensor Fusion for Auto Driving Perception: A Survey.,arXiv 2022,https://arxiv.org/pdf/2202.02703.pdf,2202.02703,True,2
+2568,The ML,Computer Vision,Object Detection in 20 Years: A Survey.,arXiv 2019,https://arxiv.org/abs/1905.05055,1905.05055,True,1
+2572,The ML,Computer Vision,Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work.,arXiv 2022,https://arxiv.org/pdf/2203.01536.pdf,2203.01536,True,1
+2576,The ML,Computer Vision,Recovering 3D Human Mesh from Monocular Images: A Survey.,arXiv 2022,https://arxiv.org/pdf/2203.01923.pdf,2203.01923,True,1
+2580,The ML,Computer Vision,Single Image Super-Resolution Methods: A Survey.,arXiv 2022,https://arxiv.org/pdf/2202.11763.pdf,2202.11763,True,1
+2584,The ML,Computer Vision,Temporal Sentence Grounding in Videos: A Survey and Future Directions.,arXiv 2022,https://arxiv.org/pdf/2201.08071.pdf,2201.08071,True,1
+2588,The ML,Computer Vision,The Elements of End-to-end Deep Face Recognition: A Survey of Recent Advances.,ACM Comput. Surv. 2022,https://arxiv.org/pdf/2009.13290.pdf,2009.13290,True,1
+2592,The ML,Computer Vision,The Impact of Machine Learning on 2D/3D Registration for Image-guided Interventions: A Systematic Review and Perspective.,Frontiers Robotics AI 2021,https://arxiv.org/pdf/2108.02238.pdf,2108.02238,True,1
+2596,The ML,Computer Vision,The Need and Status of Sea Turtle Conservation and Survey of Associated Computer Vision Advances.,arXiv 2021,https://arxiv.org/pdf/2107.14061.pdf,2107.14061,True,1
+2600,The ML,Computer Vision,Transformers in Remote Sensing: A Survey.,arXiv 2022,https://arxiv.org/pdf/2209.01206.pdf,2209.01206,True,2
+2604,The ML,Computer Vision,Transformers Meet Visual Learning Understanding: A Comprehensive Review.,arXiv 2022,https://arxiv.org/pdf/2203.12944.pdf,2203.12944,True,1
+2608,The ML,Computer Vision,Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey.,arXiv 2022,https://arxiv.org/pdf/2211.10412.pdf,2211.10412,True,1
+2614,The ML,Contrastive Learning,A Survey on Contrastive Self-supervised Learning.,arXiv 2020,https://arxiv.org/abs/2011.00362,2011.00362,True,1
+2622,The ML,Contrastive Learning,Self-supervised Learning: Generative or Contrastive.,arXiv 2020,https://arxiv.org/abs/2006.08218,2006.08218,True,1
+2628,The ML,Curriculum Learning,A Survey on Curriculum Learning.,IEEE Trans. Pattern Anal. Mach. Intell. 2022,https://arxiv.org/abs/2010.13166,2010.13166,True,1
+2632,The ML,Curriculum Learning,Automatic Curriculum Learning For Deep RL: A Short Survey.,IJCAI 2020,https://arxiv.org/abs/2003.04664,2003.04664,True,1
+2636,The ML,Curriculum Learning,Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey.,J. Mach. Learn. Res. 2020,https://arxiv.org/abs/2003.04960,2003.04960,True,2
+2640,The ML,Curriculum Learning,Curriculum Learning: A Survey.,Int. J. Comput. Vis. 2022,https://arxiv.org/abs/2101.10382,2101.10382,True,1
+2646,The ML,Data Augmentation,A Comprehensive Survey of Dataset Distillation.,arXiv 2023,https://arxiv.org/abs/2301.05603,2301.05603,True,1
+2650,The ML,Data Augmentation,A Comprehensive Survey of Image Augmentation Techniques for Deep Learning.,arXiv 2022,https://arxiv.org/pdf/2205.01491.pdf,2205.01491,True,1
+2654,The ML,Data Augmentation,A Survey of Automated Data Augmentation Algorithms for Deep Learning-based Image Classification Tasks.,arXiv 2022,https://arxiv.org/pdf/2206.06544.pdf,2206.06544,True,2
+2658,The ML,Data Augmentation,A Survey of Data Augmentation Approaches for NLP.,ACL 2021,https://arxiv.org/pdf/2105.03075.pdf,2105.03075,True,2
+2662,The ML,Data Augmentation,"A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability.",arXiv 2022,https://arxiv.org/pdf/2212.10888.pdf,2212.10888,True,1
+2670,The ML,Data Augmentation,An Empirical Survey of Data Augmentation for Time Series Classification with Neural Networks.,arXiv 2020,https://arxiv.org/abs/2007.15951,2007.15951,True,1
+2674,The ML,Data Augmentation,Data Augmentation Approaches in Natural Language Processing: A Survey.,AI Open 2022,https://arxiv.org/pdf/2110.01852.pdf,2110.01852,True,1
+2678,The ML,Data Augmentation,Data Augmentation on Graphs: A Technical Survey.,arXiv 2022,https://arxiv.org/pdf/2212.09970.pdf,2212.09970,True,1
+2682,The ML,Data Augmentation,Data Distillation: A Survey.,arXiv 2023,https://arxiv.org/pdf/2301.04272.pdf,2301.04272,True,1
+2686,The ML,Data Augmentation,Dataset Distillation: A Comprehensive Review.,arXiv 2023,https://arxiv.org/pdf/2301.07014.pdf,2301.07014,True,1
+2690,The ML,Data Augmentation,Time Series Data Augmentation for Deep Learning: A Survey.,IJCAI 2021,https://arxiv.org/abs/2002.12478,2002.12478,True,1
+2696,The ML,Deep Learning General Methods,A Review and Roadmap of Deep Learning Causal Discovery in Different Variable Paradigms.,arXiv 2022,https://arxiv.org/abs/2209.06367,2209.06367,True,1
+2700,The ML,Deep Learning General Methods,A Survey of Deep Active Learning.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2009.00236,2009.00236,True,1
+2704,The ML,Deep Learning General Methods,A Survey of Deep Learning for Data Caching in Edge Network.,Informatics 2020,https://arxiv.org/abs/2008.07235,2008.07235,True,1
+2708,The ML,Deep Learning General Methods,A Survey of Deep Learning for Mathematical Reasoning.,arXiv 2022,https://arxiv.org/pdf/2212.10535.pdf,2212.10535,True,1
+2712,The ML,Deep Learning General Methods,A Survey of Deep Learning for Scientific Discovery.,arXiv 2020,https://arxiv.org/pdf/2003.11755.pdf,2003.11755,True,1
+2716,The ML,Deep Learning General Methods,"A Survey of Label-noise Representation Learning: Past, Present and Future.",arXiv 2020,https://arxiv.org/pdf/2011.04406.pdf,2011.04406,True,1
+2720,The ML,Deep Learning General Methods,A Survey of Neuromorphic Computing and Neural Networks in Hardware.,arXiv 2017,https://arxiv.org/abs/1705.06963,1705.06963,True,1
+2724,The ML,Deep Learning General Methods,A Survey of Uncertainty in Deep Neural Networks.,arXiv 2021,https://arxiv.org/pdf/2107.03342.pdf,2107.03342,True,1
+2728,The ML,Deep Learning General Methods,A Survey on Active Deep Learning: From Model-driven to Data-driven.,arXiv 2020,https://arxiv.org/abs/2101.09933,2101.09933,True,1
+2732,The ML,Deep Learning General Methods,"A Survey on Assessing the Generalization Envelope of Deep Neural Networks: Predictive Uncertainty, Out-of-distribution and Adversarial Samples.",arXiv 2020,https://arxiv.org/abs/2008.09381,2008.09381,True,1
+2736,The ML,Deep Learning General Methods,A Survey on Concept Factorization: From Shallow to Deep Representation Learning.,Inf. Process. Manag. 2021,https://arxiv.org/abs/2007.15840,2007.15840,True,1
+2740,The ML,Deep Learning General Methods,A Survey on Deep Hashing Methods.,arXiv 2020,https://arxiv.org/abs/2003.03369,2003.03369,True,1
+2744,The ML,Deep Learning General Methods,A Survey on Deep Learning with Noisy Labels: How to train your model when you cannot trust on the annotations?.,SIBGRAPI 2020,https://arxiv.org/pdf/2012.03061.pdf,2012.03061,True,1
+2748,The ML,Deep Learning General Methods,A Survey on Dynamic Network Embedding.,arXiv 2020,https://arxiv.org/pdf/2006.08093.pdf,2006.08093,True,1
+2752,The ML,Deep Learning General Methods,A Survey on Network Embedding.,IEEE Trans. Knowl. Data Eng. 2019,https://arxiv.org/pdf/1711.08752,1711.08752,True,1
+2756,The ML,Deep Learning General Methods,A Tutorial on Network Embeddings.,arXiv 2018,https://arxiv.org/abs/1808.02590,1808.02590,True,1
+2760,The ML,Deep Learning General Methods,Continual Lifelong Learning with Neural Networks: A Review.,Neural Networks 2019,https://arxiv.org/pdf/1802.07569.pdf,1802.07569,True,1
+2776,The ML,Deep Learning General Methods,Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective.,arXiv 2019,https://arxiv.org/abs/1908.10920,1908.10920,True,1
+2780,The ML,Deep Learning General Methods,Deep Long-Tailed Learning: A Survey.,arXiv 2021,https://arxiv.org/pdf/2110.04596.pdf,2110.04596,True,1
+2784,The ML,Deep Learning General Methods,Dynamic Neural Networks: A Survey.,IEEE Trans. Pattern Anal. Mach. Intell. 2022,https://arxiv.org/abs/2102.04906,2102.04906,True,1
+2792,The ML,Deep Learning General Methods,Geometric deep learning: going beyond Euclidean data.,IEEE Signal Process. Mag. 2017,https://arxiv.org/abs/1611.08097,1611.08097,True,1
+2796,The ML,Deep Learning General Methods,Heuristic design of fuzzy inference systems: A review of three decades of research.,Eng. Appl. Artif. Intell. 2019,https://arxiv.org/abs/1908.10122,1908.10122,True,1
+2800,The ML,Deep Learning General Methods,"Imitation Learning: Progress, Taxonomies and Challenges.",IEEE Trans. Neural Networks Learn. Syst. 2021,https://arxiv.org/abs/2106.12177,2106.12177,True,1
+2804,The ML,Deep Learning General Methods,Improving Deep Learning Models via Constraint-Based Domain Knowledge: a Brief Survey.,arXiv 2020,https://arxiv.org/abs/2005.10691,2005.10691,True,1
+2808,The ML,Deep Learning General Methods,Interpretation of Time-Series Deep Models: A Survey.,arXiv 2023,https://arxiv.org/abs/2305.14582,2305.14582,True,1
+2812,The ML,Deep Learning General Methods,Knowledge-augmented Deep Learning and Its Applications: A Survey.,arXiv 2022,https://arxiv.org/pdf/2212.00017.pdf,2212.00017,True,1
+2816,The ML,Deep Learning General Methods,Learning from Noisy Labels with Deep Neural Networks: A Survey.,arXiv 2020,https://arxiv.org/abs/2007.08199,2007.08199,True,1
+2820,The ML,Deep Learning General Methods,Model Complexity of Deep Learning: A Survey.,Knowl. Inf. Syst. 2021,https://arxiv.org/abs/2103.05127,2103.05127,True,1
+2836,The ML,Deep Learning General Methods,On Neural Differential Equations.,arXiv 2022,https://arxiv.org/pdf/2202.02435.pdf,2202.02435,True,1
+2840,The ML,Deep Learning General Methods,Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey.,arXiv 2020,https://arxiv.org/abs/2007.00753,2007.00753,True,1
+2844,The ML,Deep Learning General Methods,Partial Differential Equations Meet Deep Neural Networks: A Survey.,arXiv 2022,https://arxiv.org/pdf/2211.05567.pdf,2211.05567,True,1
+2848,The ML,Deep Learning General Methods,Recent advances in deep learning theory.,arXiv 2020,https://arxiv.org/pdf/2012.10931.pdf,2012.10931,True,1
+2852,The ML,Deep Learning General Methods,"Relational inductive biases, deep learning, and graph networks.",arXiv 2018,http://arxiv.org/abs/1806.01261,1806.01261,True,1
+2856,The ML,Deep Learning General Methods,Representation Learning: A Review and New Perspectives.,IEEE Trans. Pattern Anal. Mach. Intell. 2013,https://arxiv.org/pdf/1206.5538,1206.5538,True,1
+2860,The ML,Deep Learning General Methods,Review: Ordinary Differential Equations For Deep Learning.,arXiv 2019,https://arxiv.org/abs/1911.00502,1911.00502,True,1
+2864,The ML,Deep Learning General Methods,Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks.,J. Mach. Learn. Res. 2021,https://arxiv.org/abs/2102.00554,2102.00554,True,1
+2868,The ML,Deep Learning General Methods,Survey of Expressivity in Deep Neural Networks.,arXiv 2016,https://arxiv.org/abs/1611.08083,1611.08083,True,1
+2872,The ML,Deep Learning General Methods,Survey of reasoning using Neural networks.,arXiv 2017,https://arxiv.org/abs/1702.06186,1702.06186,True,1
+2876,The ML,Deep Learning General Methods,Survey on Large Scale Neural Network Training.,arXiv 2022,https://arxiv.org/pdf/2202.10435.pdf,2202.10435,True,2
+2880,The ML,Deep Learning General Methods,The Deep Learning Compiler: A Comprehensive Survey.,IEEE Trans. Parallel Distributed Syst. 2021,https://arxiv.org/abs/2002.03794,2002.03794,True,1
+2884,The ML,Deep Learning General Methods,The Modern Mathematics of Deep Learning.,arXiv 2021,https://arxiv.org/pdf/2105.04026.pdf,2105.04026,True,1
+2888,The ML,Deep Learning General Methods,Time Series Data Imputation: A Survey on Deep Learning Approaches.,arXiv 2020,https://arxiv.org/pdf/2011.11347.pdf,2011.11347,True,1
+2892,The ML,Deep Learning General Methods,Time Series Forecasting With Deep Learning: A Survey.,arXiv 2020,https://arxiv.org/abs/2004.13408,2004.13408,True,1
+2896,The ML,Deep Learning General Methods,Tutorial on Variational Autoencoders.,arXiv 2016,https://arxiv.org/pdf/1606.05908.pdf,1606.05908,True,1
+2902,The ML,Deep Reinforcement Learning,A Mini Review on the utilization of Reinforcement Learning with OPC UA.,arXiv 2023,https://arxiv.org/abs/2305.15113,2305.15113,True,1
+2906,The ML,Deep Reinforcement Learning,A Short Survey On Memory Based Reinforcement Learning.,arXiv 2019,https://arxiv.org/abs/1904.06736,1904.06736,True,1
+2910,The ML,Deep Reinforcement Learning,A Short Survey on Probabilistic Reinforcement Learning.,arXiv 2019,https://arxiv.org/abs/1901.07010,1901.07010,True,1
+2914,The ML,Deep Reinforcement Learning,A survey of benchmarking frameworks for reinforcement learning.,arXiv 2020,https://arxiv.org/pdf/2011.13577.pdf,2011.13577,True,1
+2918,The ML,Deep Reinforcement Learning,A Survey of Explainable Reinforcement Learning.,arXiv 2022,https://arxiv.org/pdf/2202.08434.pdf,2202.08434,True,2
+2926,The ML,Deep Reinforcement Learning,"A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress.",Artif. Intell. 2021,https://arxiv.org/abs/1806.06877,1806.06877,True,1
+2930,The ML,Deep Reinforcement Learning,A Survey of Reinforcement Learning Algorithms for Dynamically Varying Environments.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2005.10619,2005.10619,True,1
+2934,The ML,Deep Reinforcement Learning,A Survey of Reinforcement Learning Informed by Natural Language.,IJCAI 2019,https://arxiv.org/abs/1906.03926,1906.03926,True,1
+2938,The ML,Deep Reinforcement Learning,"A Survey of Reinforcement Learning Techniques: Strategies, Recent Development, and Future Directions.",arXiv 2020,https://arxiv.org/abs/2001.06921,2001.06921,True,1
+2942,The ML,Deep Reinforcement Learning,A Survey of Zero-shot Generalisation in Deep Reinforcement Learning.,J. Artif. Intell. Res. 2023,https://arxiv.org/pdf/2111.09794.pdf,2111.09794,True,2
+2946,The ML,Deep Reinforcement Learning,A Survey on Deep Reinforcement Learning for Audio-Based Applications.,Artif. Intell. Rev. 2023,http://arxiv.org/pdf/2101.00240.pdf,2101.00240,True,1
+2950,The ML,Deep Reinforcement Learning,A Survey on Deep Reinforcement Learning for Data Processing and Analytics.,arXiv 2021,https://arxiv.org/pdf/2108.04526.pdf,2108.04526,True,1
+2954,The ML,Deep Reinforcement Learning,"A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges.",arXiv 2022,https://arxiv.org/pdf/2211.06665.pdf,2211.06665,True,1
+2958,The ML,Deep Reinforcement Learning,A survey on intrinsic motivation in reinforcement learning.,arXiv 2019,https://arxiv.org/abs/1908.06976,1908.06976,True,1
+2962,The ML,Deep Reinforcement Learning,A Survey on Reinforcement Learning for Combinatorial Optimization.,arXiv 2020,https://arxiv.org/pdf/2008.12248.pdf,2008.12248,True,1
+2966,The ML,Deep Reinforcement Learning,A Survey on Reinforcement Learning for Recommender Systems.,arXiv 2021,https://arxiv.org/pdf/2109.10665.pdf,2109.10665,True,2
+2970,The ML,Deep Reinforcement Learning,A Survey on Reproducibility by Evaluating Deep Reinforcement Learning Algorithms on Real-World Robots.,CoRL 2019,https://arxiv.org/abs/1909.03772,1909.03772,True,1
+2974,The ML,Deep Reinforcement Learning,A Survey on Transformers in Reinforcement Learning.,arXiv 2023,https://arxiv.org/pdf/2301.03044.pdf,2301.03044,True,1
+2978,The ML,Deep Reinforcement Learning,Adapting Behaviour via Intrinsic Reward: A Survey and Empirical Study.,arXiv 2019,https://arxiv.org/pdf/1906.07865.pdf,1906.07865,True,1
+2982,The ML,Deep Reinforcement Learning,Automated Reinforcement Learning (AutoRL): A Survey and Open Problems.,J. Artif. Intell. Res. 2022,https://arxiv.org/abs/2201.03916,2201.03916,True,1
+2990,The ML,Deep Reinforcement Learning,Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey.,J. Mach. Learn. Res. 2020,https://arxiv.org/pdf/2003.04960.pdf,2003.04960,True,2
+2994,The ML,Deep Reinforcement Learning,"Deep Model-Based Reinforcement Learning for High-Dimensional Problems, a Survey.",arXiv 2020,https://arxiv.org/abs/2008.05598,2008.05598,True,1
+2998,The ML,Deep Reinforcement Learning,Deep Reinforcement Learning for Autonomous Driving: A Survey.,IEEE Trans. Intell. Transp. Syst. 2022,https://arxiv.org/pdf/2002.00444.pdf,2002.00444,True,1
+3002,The ML,Deep Reinforcement Learning,Deep Reinforcement Learning for Clinical Decision Support: A Brief Survey.,arXiv 2019,https://arxiv.org/pdf/1907.09475.pdf,1907.09475,True,1
+3006,The ML,Deep Reinforcement Learning,Deep Reinforcement Learning for Demand Driven Services in Logistics and Transportation Systems: A Survey.,arXiv 2021,https://arxiv.org/pdf/2108.04462.pdf,2108.04462,True,1
+3010,The ML,Deep Reinforcement Learning,Deep Reinforcement Learning for Intelligent Transportation Systems: A Survey.,IEEE Trans. Intell. Transp. Syst. 2022,https://arxiv.org/pdf/2005.00935.pdf,2005.00935,True,1
+3014,The ML,Deep Reinforcement Learning,Deep Reinforcement Learning in Quantitative Algorithmic Trading: A Review.,arXiv 2021,https://arxiv.org/pdf/2106.00123.pdf,2106.00123,True,1
+3022,The ML,Deep Reinforcement Learning,Deep Reinforcement Learning: An Overview.,arXiv 2017,https://arxiv.org/abs/1701.07274,1701.07274,True,1
+3026,The ML,Deep Reinforcement Learning,Derivative-Free Reinforcement Learning: A Review.,Frontiers Comput. Sci. 2021,https://arxiv.org/abs/2102.05710,2102.05710,True,1
+3030,The ML,Deep Reinforcement Learning,Explainable Reinforcement Learning for Broad-XAI: A Conceptual Framework and Survey.,arXiv 2021,https://arxiv.org/pdf/2108.09003.pdf,2108.09003,True,1
+3034,The ML,Deep Reinforcement Learning,Feature-Based Aggregation and Deep Reinforcement Learning: A Survey and Some New Implementations.,IEEE CAA J. Autom. Sinica 2019,https://arxiv.org/abs/1804.04577,1804.04577,True,1
+3038,The ML,Deep Reinforcement Learning,Model-based Reinforcement Learning: A Survey.,arXiv 2020,https://arxiv.org/abs/2006.16712,2006.16712,True,1
+3042,The ML,Deep Reinforcement Learning,Reinforcement Learning for Combinatorial Optimization: A Survey.,Comput. Oper. Res. 2021,https://arxiv.org/abs/2003.03600,2003.03600,True,1
+3046,The ML,Deep Reinforcement Learning,Reinforcement Learning in Healthcare: A Survey.,arXiv 2019,https://arxiv.org/pdf/1908.08796.pdf,1908.08796,True,1
+3050,The ML,Deep Reinforcement Learning,Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey.,SSCI 2020,https://arxiv.org/pdf/2009.13303.pdf,2009.13303,True,1
+3054,The ML,Deep Reinforcement Learning,Survey on reinforcement learning for language processing.,Artif. Intell. Rev. 2023,https://arxiv.org/abs/2104.05565,2104.05565,True,1
+3058,The ML,Deep Reinforcement Learning,Tutorial and Survey on Probabilistic Graphical Model and Variational Inference in Deep Reinforcement Learning.,SSCI 2019,https://arxiv.org/pdf/1908.09381.pdf,1908.09381,True,1
+3064,The ML,Diffusion Models,A Survey on Generative Diffusion Model.,arXiv 2022,https://arxiv.org/abs/2209.02646,2209.02646,True,1
+3068,The ML,Diffusion Models,Diffusion Models for Medical Image Analysis: A Comprehensive Survey.,arXiv 2022,https://arxiv.org/abs/2211.07804,2211.07804,True,1
+3072,The ML,Diffusion Models,Diffusion Models in NLP: A Survey.,arXiv 2023,https://arxiv.org/abs/2305.14671,2305.14671,True,1
+3076,The ML,Diffusion Models,Diffusion Models in Vision: A Survey.,arXiv 2022,https://arxiv.org/pdf/2209.04747.pdf,2209.04747,True,1
+3080,The ML,Diffusion Models,Diffusion Models: A Comprehensive Survey of Methods and Applications.,arXiv 2022,https://arxiv.org/pdf/2209.00796.pdf,2209.00796,True,1
+3084,The ML,Diffusion Models,Efficient Diffusion Models for Vision: A Survey.,arXiv 2022,https://arxiv.org/abs/2210.09292.pdf,2210.09292,True,1
+3090,The ML,Federated Learning,"A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection.",arXiv 2019,http://arxiv.org/pdf/1907.09693.pdf,1907.09693,True,1
+3094,The ML,Federated Learning,A Survey on Heterogeneous Federated Learning.,arXiv 2022,https://arxiv.org/pdf/2210.04505.pdf,2210.04505,True,1
+3098,The ML,Federated Learning,"Achieving Security and Privacy in Federated Learning Systems: Survey, Research Challenges and Future Directions.",Eng. Appl. Artif. Intell. 2021,http://arxiv.org/pdf/2012.06810.pdf,2012.06810,True,1
+3102,The ML,Federated Learning,Advances and Open Problems in Federated Learning.,Found. Trends Mach. Learn. 2021,https://arxiv.org/abs/1912.04977,1912.04977,True,1
+3106,The ML,Federated Learning,"Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications.",SIGKDD Explor. 2022,https://arxiv.org/abs/2207.11812,2207.11812,True,2
+3110,The ML,Federated Learning,Federated Learning Challenges and Opportunities: An Outlook.,ICASSP 2022,https://arxiv.org/pdf/2202.00807.pdf,2202.00807,True,1
+3114,The ML,Federated Learning,Fusion of Federated Learning and Industrial Internet of Things: A Survey.,arXiv 2021,http://arxiv.org/pdf/2101.00798.pdf,2101.00798,True,1
+3118,The ML,Federated Learning,Privacy and Robustness in Federated Learning: Attacks and Defenses.,arXiv 2020,https://arxiv.org/abs/2012.06337,2012.06337,True,1
+3122,The ML,Federated Learning,Threats to Federated Learning: A Survey.,arXiv 2020,https://arxiv.org/abs/2003.02133,2003.02133,True,1
+3126,The ML,Federated Learning,Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective.,arXiv 2020,https://arxiv.org/abs/2002.11545,2002.11545,True,1
+3132,The ML,Few-Shot and Zero-Shot Learning,"A Comprehensive Survey of Few-shot Learning: Evolution, Applications, Challenges, and Opportunities.",arXiv 2022,https://arxiv.org/pdf/2205.06743.pdf,2205.06743,True,1
+3136,The ML,Few-Shot and Zero-Shot Learning,A Survey of Zero-shot Generalisation in Deep Reinforcement Learning.,J. Artif. Intell. Res. 2023,https://arxiv.org/pdf/2111.09794.pdf,2111.09794,True,2
+3144,The ML,Few-Shot and Zero-Shot Learning,A Survey on Few-Shot Class-Incremental Learning.,arXiv 2023,https://arxiv.org/abs/2304.08130,2304.08130,True,1
+3148,The ML,Few-Shot and Zero-Shot Learning,A Survey on Machine Learning from Few Samples.,Pattern Recognition 2020,https://arxiv.org/abs/2009.02653,2009.02653,True,1
+3152,The ML,Few-Shot and Zero-Shot Learning,Generalizing from a Few Examples: A Survey on Few-Shot Learning.,ACM Comput. Surv. 2021,https://arxiv.org/abs/1904.05046,1904.05046,True,1
+3156,The ML,Few-Shot and Zero-Shot Learning,Learning from Few Samples: A Survey.,arXiv 2020,https://arxiv.org/abs/2007.15484,2007.15484,True,1
+3162,The ML,General Machine Learning,A Comprehensive Survey on Outlying Aspect Mining Methods.,arXiv 2020,https://arxiv.org/pdf/2005.02637.pdf,2005.02637,True,1
+3166,The ML,General Machine Learning,A survey and taxonomy of loss functions in machine learning.,arXiv 2023,https://arxiv.org/pdf/2301.05579.pdf,2301.05579,True,1
+3170,The ML,General Machine Learning,A Survey of Adaptive Resonance Theory Neural Network Models for Engineering Applications.,Neural Networks 2019,https://arxiv.org/abs/1905.11437,1905.11437,True,1
+3174,The ML,General Machine Learning,A survey of dimensionality reduction techniques.,arXiv 2014,https://arxiv.org/abs/1403.2877,1403.2877,True,1
+3178,The ML,General Machine Learning,A Survey of Human-in-the-loop for Machine Learning.,Future Gener. Comput. Syst. 2022,https://arxiv.org/pdf/2108.00941,2108.00941,True,1
+3182,The ML,General Machine Learning,A Survey of Learning Causality with Data: Problems and Methods.,ACM Comput. Surv. 2021,https://arxiv.org/pdf/1809.09337.pdf,1809.09337,True,1
+3186,The ML,General Machine Learning,A Survey of Learning on Small Data.,arXiv 2022,https://arxiv.org/pdf/2207.14443.pdf,2207.14443,True,1
+3190,The ML,General Machine Learning,A Survey of Predictive Modelling under Imbalanced Distributions.,arXiv 2015,https://arxiv.org/abs/1505.01658,1505.01658,True,1
+3194,The ML,General Machine Learning,A Survey On (Stochastic Fractal Search) Algorithm.,arXiv 2021,https://arxiv.org/abs/2102.01503,2102.01503,True,1
+3198,The ML,General Machine Learning,A Survey on Data Collection for Machine Learning: a Big Data - AI Integration Perspective.,IEEE Trans. Knowl. Data Eng. 2021,https://arxiv.org/abs/1811.03402,1811.03402,True,1
+3202,The ML,General Machine Learning,A Survey on Distributed Machine Learning.,ACM Comput. Surv. 2021,https://arxiv.org/abs/1912.09789,1912.09789,True,1
+3206,The ML,General Machine Learning,A survey on feature weighting based K-Means algorithms.,J. Classif. 2016,https://arxiv.org/abs/1601.03483,1601.03483,True,1
+3214,The ML,General Machine Learning,A Survey on Large-scale Machine Learning.,IEEE Trans. Knowl. Data Eng. 2022,https://arxiv.org/abs/2008.03911,2008.03911,True,1
+3218,The ML,General Machine Learning,A Survey on Optimal Transport for Machine Learning: Theory and Applications.,arXiv 2021,https://arxiv.org/abs/2106.01963,2106.01963,True,1
+3222,The ML,General Machine Learning,A Survey on Resilient Machine Learning.,arXiv 2017,https://arxiv.org/abs/1707.03184,1707.03184,True,1
+3230,The ML,General Machine Learning,Adversarial Examples in Modern Machine Learning: A Review.,arXiv 2019,https://arxiv.org/abs/1911.05268,1911.05268,True,1
+3234,The ML,General Machine Learning,Algorithms Inspired by Nature: A Survey.,arXiv 2019,https://arxiv.org/abs/1903.01893,1903.01893,True,1
+3238,The ML,General Machine Learning,An Overview of Privacy in Machine Learning.,arXiv 2020,https://arxiv.org/pdf/2005.08679.pdf,2005.08679,True,1
+3242,The ML,General Machine Learning,Are deep learning models superior for missing data imputation in large surveys? Evidence from an empirical comparison.,arXiv 2021,https://arxiv.org/abs/2103.09316,2103.09316,True,1
+3246,The ML,General Machine Learning,Certification of embedded systems based on Machine Learning: A survey.,arXiv 2021,https://arxiv.org/abs/2106.07221,2106.07221,True,1
+3250,The ML,General Machine Learning,Class-incremental learning: survey and performance evaluation.,arXiv 2020,https://arxiv.org/pdf/2010.15277.pdf,2010.15277,True,1
+3254,The ML,General Machine Learning,Data and its (dis)contents: A survey of dataset development and use in machine learning research.,Patterns 2021,https://arxiv.org/abs/2012.05345,2012.05345,True,1
+3258,The ML,General Machine Learning,Generating Artificial Outliers in the Absence of Genuine Ones - a Survey.,ACM Trans. Knowl. Discov. Data 2021,https://arxiv.org/abs/2006.03646,2006.03646,True,1
+3262,The ML,General Machine Learning,Hierarchical Mixtures-of-Experts for Exponential Family Regression Models with Generalized Linear Mean Functions: A Survey of Approximation and Consistency Results.,UAI 1998,https://arxiv.org/abs/1301.7390,1301.7390,True,1
+3266,The ML,General Machine Learning,Hyperbox-based machine learning algorithms: A comprehensive survey.,Soft Comput. 2021,https://arxiv.org/abs/1901.11303,1901.11303,True,1
+3270,The ML,General Machine Learning,Introduction to Core-sets: an Updated Survey.,arXiv 2020,https://arxiv.org/pdf/2011.09384.pdf,2011.09384,True,1
+3274,The ML,General Machine Learning,"Laplacian-Based Dimensionality Reduction Including Spectral Clustering, Laplacian Eigenmap, Locality Preserving Projection, Graph Embedding, and Diffusion Map: Tutorial and Survey.",arXiv 2021,https://arxiv.org/abs/2106.02154,2106.02154,True,1
+3278,The ML,General Machine Learning,Logic Locking at the Frontiers of Machine Learning: A Survey on Developments and Opportunities.,VLSI-SoC 2021,https://arxiv.org/abs/2107.01915,2107.01915,True,1
+3282,The ML,General Machine Learning,Machine Learning at the Network Edge: A Survey.,ACM Comput. Surv. 2022,https://arxiv.org/abs/1908.00080,1908.00080,True,1
+3286,The ML,General Machine Learning,Machine Learning for Spatiotemporal Sequence Forecasting: A Survey.,arXiv 2018,https://arxiv.org/abs/1808.06865,1808.06865,True,1
+3294,The ML,General Machine Learning,"Machine Learning Testing: Survey, Landscapes and Horizons.",IEEE Trans. Software Eng. 2022,https://arxiv.org/abs/1906.10742,1906.10742,True,1
+3298,The ML,General Machine Learning,Machine Learning that Matters.,ICML 2012,https://arxiv.org/abs/1206.4656,1206.4656,True,1
+3302,The ML,General Machine Learning,Machine Learning with World Knowledge: The Position and Survey.,arXiv 2017,https://arxiv.org/abs/1705.02908,1705.02908,True,1
+3306,The ML,General Machine Learning,Mean-Field Learning: a Survey.,arXiv 2012,https://arxiv.org/abs/1210.4657,1210.4657,True,1
+3310,The ML,General Machine Learning,"Multidimensional Scaling, Sammon Mapping, and Isomap: Tutorial and Survey.",arXiv 2020,https://arxiv.org/abs/2009.08136,2009.08136,True,1
+3314,The ML,General Machine Learning,Multimodal Machine Learning: A Survey and Taxonomy.,IEEE Trans. Pattern Anal. Mach. Intell. 2019,https://arxiv.org/abs/1705.09406,1705.09406,True,2
+3322,The ML,General Machine Learning,Rank-based Decomposable Losses in Machine Learning: A Survey.,arXiv 2022,https://arxiv.org/pdf/2207.08768.pdf,2207.08768,True,1
+3326,The ML,General Machine Learning,Rational Kernels: A survey.,arXiv 2019,https://arxiv.org/pdf/1910.13800.pdf,1910.13800,True,1
+3330,The ML,General Machine Learning,Sampling Constrained Continuous Probability Distributions: A Review.,WIREs Computational Statistics 2022,https://arxiv.org/pdf/2209.12403.pdf,2209.12403,True,1
+3334,The ML,General Machine Learning,Statistical Queries and Statistical Algorithms: Foundations and Applications.,arXiv 2020,https://arxiv.org/abs/2004.00557,2004.00557,True,1
+3338,The ML,General Machine Learning,Structure Learning of Probabilistic Graphical Models: A Comprehensive Survey.,arXiv 2011,https://arxiv.org/abs/1111.6925,1111.6925,True,1
+3342,The ML,General Machine Learning,Survey & Experiment: Towards the Learning Accuracy.,arXiv 2010,https://arxiv.org/abs/1012.4051,1012.4051,True,1
+3346,The ML,General Machine Learning,Survey on Feature Selection.,arXiv 2015,https://arxiv.org/abs/1510.02892,1510.02892,True,1
+3350,The ML,General Machine Learning,Survey on Multi-output Learning.,IEEE Trans. Neural Networks Learn. Syst. 2020,https://arxiv.org/abs/1901.00248,1901.00248,True,1
+3354,The ML,General Machine Learning,Survey: Machine Learning in Production Rendering.,arXiv 2020,https://arxiv.org/abs/2005.12518,2005.12518,True,1
+3358,The ML,General Machine Learning,The Benefits of Population Diversity in Evolutionary Algorithms: A Survey of Rigorous Runtime Analyses.,Theory of Evolutionary Computation 2020,https://arxiv.org/abs/1801.10087,1801.10087,True,1
+3362,The ML,General Machine Learning,The Mathematics of Artificial Intelligence.,arXiv 2022,https://arxiv.org/pdf/2203.08890.pdf,2203.08890,True,1
+3366,The ML,General Machine Learning,Towards Causal Representation Learning.,arXiv 2021,https://arxiv.org/abs/2102.11107,2102.11107,True,1
+3370,The ML,General Machine Learning,Towards Out-Of-Distribution Generalization: A Survey.,arXiv 2021,https://arxiv.org/pdf/2108.13624.pdf,2108.13624,True,1
+3374,The ML,General Machine Learning,"Verification for Machine Learning, Autonomy, and Neural Networks Survey.",arXiv 2018,https://arxiv.org/abs/1810.01989,1810.01989,True,1
+3378,The ML,General Machine Learning,What Can Knowledge Bring to Machine Learning? - A Survey of Low-shot Learning for Structured Data.,ACM Trans. Intell. Syst. Technol. 2022,https://arxiv.org/abs/2106.06410,2106.06410,True,1
+3384,The ML,Generative Adversarial Networks,"A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications.",arXiv 2020,https://arxiv.org/abs/2001.06937,2001.06937,True,1
+3388,The ML,Generative Adversarial Networks,A Survey on Deep Graph Generation: Methods and Applications.,LoG 2022,https://arxiv.org/pdf/2203.06714.pdf,2203.06714,True,1
+3392,The ML,Generative Adversarial Networks,"A Survey on Generative Adversarial Networks: Variants, Applications, and Training.",ACM Comput. Surv. 2022,https://arxiv.org/abs/2006.05132,2006.05132,True,1
+3396,The ML,Generative Adversarial Networks,Data synthesis and adversarial networks: A review and meta-analysis in cancer imaging.,Medical Image Anal. 2023,https://arxiv.org/abs/2107.09543,2107.09543,True,1
+3400,The ML,Generative Adversarial Networks,"Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.",IEEE Trans. Pattern Anal. Mach. Intell. 2022,https://arxiv.org/abs/2103.04922,2103.04922,True,1
+3404,The ML,Generative Adversarial Networks,Deep Generative Models on 3D Representations: A Survey.,arXiv 2022,https://arxiv.org/pdf/2210.15663.pdf,2210.15663,True,1
+3408,The ML,Generative Adversarial Networks,"GAN Computers Generate Arts? A Survey on Visual Arts, Music, and Literary Text Generation using Generative Adversarial Network.",Displays 2022,https://arxiv.org/pdf/2108.03857.pdf,2108.03857,True,1
+3412,The ML,Generative Adversarial Networks,GAN Inversion: A Survey.,IEEE Trans. Pattern Anal. Mach. Intell. 2023,https://arxiv.org/pdf/2101.05278.pdf,2101.05278,True,1
+3416,The ML,Generative Adversarial Networks,Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy.,ACM Comput. Surv. 2022,https://arxiv.org/abs/1906.01529,1906.01529,True,1
+3424,The ML,Generative Adversarial Networks,Generative Adversarial Networks: A Survey Towards Private and Secure Applications.,arXiv 2021,https://arxiv.org/abs/2106.03785,2106.03785,True,1
+3428,The ML,Generative Adversarial Networks,Generative Adversarial Networks: An Overview.,IEEE Signal Process. Mag. 2018,https://arxiv.org/abs/1710.07035,1710.07035,True,1
+3432,The ML,Generative Adversarial Networks,How Generative Adversarial Networks and Their Variants Work: An Overview.,ACM Comput. Surv. 2019,https://arxiv.org/abs/1711.05914,1711.05914,True,1
+3436,The ML,Generative Adversarial Networks,Stabilizing Generative Adversarial Networks: A Survey.,arXiv 2019,https://arxiv.org/abs/1910.00927,1910.00927,True,1
+3446,The ML,Graph Neural Networks,A Comprehensive Survey of Graph-level Learning.,arXiv 2023,https://arxiv.org/pdf/2301.05860.pdf,2301.05860,True,1
+3450,The ML,Graph Neural Networks,A Comprehensive Survey on Graph Neural Networks.,IEEE Trans. Neural Networks Learn. Syst. 2021,https://arxiv.org/abs/1901.00596,1901.00596,True,1
+3454,The ML,Graph Neural Networks,"A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability.",arXiv 2022,https://arxiv.org/pdf/2204.08570.pdf,2204.08570,True,2
+3458,The ML,Graph Neural Networks,A Survey of Explainable Graph Neural Networks: Taxonomy and Evaluation Metrics.,arXiv 2022,https://arxiv.org/abs/2207.12599,2207.12599,True,1
+3462,The ML,Graph Neural Networks,A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective.,arXiv 2022,https://arxiv.org/pdf/2209.13232.pdf,2209.13232,True,2
+3466,The ML,Graph Neural Networks,A Survey on Graph Neural Networks for Knowledge Graph Completion.,arXiv 2020,http://arxiv.org/pdf/2007.12374.pdf,2007.12374,True,2
+3470,The ML,Graph Neural Networks,A Survey on Graph Structure Learning: Progress and Opportunities.,arXiv 2021,https://arxiv.org/abs/2103.03036,2103.03036,True,1
+3474,The ML,Graph Neural Networks,"A Survey on Heterogeneous Graph Embedding: Methods, Techniques, Applications and Sources.",arXiv 2020,https://arxiv.org/pdf/2011.14867.pdf,2011.14867,True,1
+3478,The ML,Graph Neural Networks,A Survey on The Expressive Power of Graph Neural Networks.,arXiv 2020,https://arxiv.org/abs/2003.04078,2003.04078,True,1
+3482,The ML,Graph Neural Networks,A Systematic Survey on Deep Generative Models for Graph Generation.,arXiv 2020,https://arxiv.org/pdf/2007.06686.pdf,2007.06686,True,1
+3486,The ML,Graph Neural Networks,Adversarial Attack and Defense on Graph Data: A Survey.,arXiv 2018,https://arxiv.org/abs/1812.10528,1812.10528,True,1
+3490,The ML,Graph Neural Networks,"Automated Graph Machine Learning: Approaches, Libraries and Directions.",arXiv 2022,https://arxiv.org/pdf/2201.01288.pdf,2201.01288,True,1
+3494,The ML,Graph Neural Networks,Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks.,arXiv 2020,https://arxiv.org/abs/2002.11867,2002.11867,True,1
+3498,The ML,Graph Neural Networks,Challenges and Opportunities in Deep Reinforcement Learning with Graph Neural Networks: A Comprehensive review of Algorithms and Applications.,arXiv 2022,https://arxiv.org/pdf/2206.07922.pdf,2206.07922,True,1
+3502,The ML,Graph Neural Networks,Computing Graph Neural Networks: A Survey from Algorithms to Accelerators.,ACM Comput. Surv. 2022,http://arxiv.org/pdf/2010.00130.pdf,2010.00130,True,1
+3506,The ML,Graph Neural Networks,Deep Graph Similarity Learning: A Survey.,Data Min. Knowl. Discov. 2021,https://arxiv.org/pdf/1912.11615.pdf,1912.11615,True,1
+3510,The ML,Graph Neural Networks,Deep Learning on Graphs: A Survey.,IEEE Trans. Knowl. Data Eng. 2022,https://arxiv.org/abs/1812.04202,1812.04202,True,1
+3514,The ML,Graph Neural Networks,Distributed Graph Neural Network Training: A Survey.,arXiv 2022,https://arxiv.org/abs/2211.00216.pdf,2211.00216,True,1
+3518,The ML,Graph Neural Networks,Explainability in Graph Neural Networks: A Taxonomic Survey.,arXiv 2020,http://arxiv.org/pdf/2012.15445.pdf,2012.15445,True,1
+3522,The ML,Graph Neural Networks,Fairness in Graph Mining: A Survey.,arXiv 2022,https://arxiv.org/pdf/2204.09888.pdf,2204.09888,True,1
+3526,The ML,Graph Neural Networks,"Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications.",SIGKDD Explor. 2022,https://arxiv.org/pdf/2207.11812.pdf,2207.11812,True,2
+3530,The ML,Graph Neural Networks,"Federated Graph Neural Networks: Overview, Techniques and Challenges.",arXiv 2022,https://arxiv.org/abs/2202.07256,2202.07256,True,1
+3534,The ML,Graph Neural Networks,Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey.,arXiv 2020,https://arxiv.org/abs/2005.07496,2005.07496,True,1
+3538,The ML,Graph Neural Networks,Geometrically Equivariant Graph Neural Networks: A Survey.,arXiv 2022,https://arxiv.org/pdf/2202.07230.pdf,2202.07230,True,1
+3542,The ML,Graph Neural Networks,"Graph Embedding Techniques, Applications, and Performance: A Survey.",Knowl. Based Syst. 2018,https://arxiv.org/abs/1705.02801,1705.02801,True,1
+3546,The ML,Graph Neural Networks,Graph Learning for Combinatorial Optimization: A Survey of State-of-the-Art.,Data Sci. Eng. 2021,https://arxiv.org/pdf/2008.12646.pdf,2008.12646,True,1
+3550,The ML,Graph Neural Networks,Graph Learning: A Survey.,IEEE Trans. Artif. Intell. 2021,https://arxiv.org/pdf/2105.00696.pdf,2105.00696,True,1
+3554,The ML,Graph Neural Networks,Graph Neural Network for Traffic Forecasting: A Survey.,Expert Syst. Appl. 2022,http://arxiv.org/pdf/2101.11174.pdf,2101.11174,True,1
+3558,The ML,Graph Neural Networks,Graph Neural Networks for Graphs with Heterophily: A Survey.,arXiv 2022,https://arxiv.org/pdf/2202.07082.pdf,2202.07082,True,1
+3562,The ML,Graph Neural Networks,Graph Neural Networks for Natural Language Processing: A Survey.,Found. Trends Mach. Learn. 2023,https://arxiv.org/pdf/2106.06090.pdf,2106.06090,True,2
+3566,The ML,Graph Neural Networks,Graph Neural Networks in Recommender Systems: A Survey.,ACM Comput. Surv. 2023,https://arxiv.org/pdf/2011.02260.pdf,2011.02260,True,2
+3570,The ML,Graph Neural Networks,Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective.,IJCAI 2020,https://arxiv.org/abs/2003.00330,2003.00330,True,1
+3574,The ML,Graph Neural Networks,Graph Neural Networks with Generated Parameters for Relation Extraction.,ACL 2019,https://arxiv.org/abs/1902.00756,1902.00756,True,1
+3578,The ML,Graph Neural Networks,Graph Neural Networks: A Review of Methods and Applications.,AI Open 2020,https://arxiv.org/abs/1812.08434,1812.08434,True,1
+3582,The ML,Graph Neural Networks,"Graph Neural Networks: Methods, Applications, and Opportunities.",arXiv 2021,https://arxiv.org/pdf/2108.10733.pdf,2108.10733,True,1
+3586,The ML,Graph Neural Networks,"Graph Neural Networks: Taxonomy, Advances and Trends.",arXiv 2020,https://arxiv.org/pdf/2012.08752.pdf,2012.08752,True,1
+3590,The ML,Graph Neural Networks,Graph Representation Learning: A Survey.,arXiv 2019,https://arxiv.org/abs/1909.00958,1909.00958,True,1
+3594,The ML,Graph Neural Networks,Graph Self-Supervised Learning: A Survey.,arXiv 2021,https://arxiv.org/abs/2103.00111,2103.00111,True,1
+3598,The ML,Graph Neural Networks,"Graph-Based Deep Learning for Medical Diagnosis and Analysis: Past, Present and Future.",Sensors 2021,https://arxiv.org/pdf/2105.13137.pdf,2105.13137,True,1
+3606,The ML,Graph Neural Networks,Learning Representations of Graph Data -- A Survey.,arXiv 2019,https://arxiv.org/abs/1906.02989,1906.02989,True,1
+3610,The ML,Graph Neural Networks,Meta-Learning with Graph Neural Networks: Methods and Applications.,arXiv 2021,https://arxiv.org/abs/2103.00137,2103.00137,True,1
+3614,The ML,Graph Neural Networks,Representation Learning for Dynamic Graphs: A Survey.,J. Mach. Learn. Res. 2020,https://arxiv.org/abs/1905.11485,1905.11485,True,1
+3622,The ML,Graph Neural Networks,Self-Supervised Learning of Graph Neural Networks: A Unified Review.,arXiv 2021,https://arxiv.org/abs/2102.10757,2102.10757,True,1
+3626,The ML,Graph Neural Networks,Spatio-Temporal Graph Neural Networks: A Survey.,arXiv 2023,https://arxiv.org/abs/2301.10569,2301.10569,True,1
+3630,The ML,Graph Neural Networks,Survey of Image Based Graph Neural Networks.,arXiv 2021,https://arxiv.org/abs/2106.06307,2106.06307,True,1
+3634,The ML,Graph Neural Networks,Tackling Graphical NLP problems with Graph Recurrent Networks.,arXiv 2019,https://arxiv.org/abs/1907.06142,1907.06142,True,1
+3638,The ML,Graph Neural Networks,The Evolution of Distributed Systems for Graph Neural Networks and their Origin in Graph Processing and Deep Learning: A Survey.,arXiv 2023,https://arxiv.org/abs/2305.13854,2305.13854,True,1
+3642,The ML,Graph Neural Networks,Theory of Graph Neural Networks: Representation and Learning.,arXiv 2022,https://arxiv.org/pdf/2204.07697.pdf,2204.07697,True,1
+3646,The ML,Graph Neural Networks,"Trustworthy Graph Neural Networks: Aspects, Methods and Trends.",arXiv 2022,https://arxiv.org/pdf/2205.07424.pdf,2205.07424,True,2
+3656,The ML,Interpretability and Analysis,A Survey of Explainable Reinforcement Learning.,arXiv 2022,https://arxiv.org/pdf/2202.08434.pdf,2202.08434,True,2
+3668,The ML,Interpretability and Analysis,A Survey on Knowledge integration techniques with Artificial Neural Networks for seq-2-seq/time series models.,arXiv 2020,https://arxiv.org/pdf/2008.05972.pdf,2008.05972,True,1
+3672,The ML,Interpretability and Analysis,A Survey on Neural Network Interpretability.,IEEE Trans. Emerg. Top. Comput. Intell. 2021,https://arxiv.org/pdf/2012.14261.pdf,2012.14261,True,1
+3676,The ML,Interpretability and Analysis,A Survey on the Explainability of Supervised Machine Learning.,J. Artif. Intell. Res. 2021,https://arxiv.org/abs/2011.07876,2011.07876,True,1
+3680,The ML,Interpretability and Analysis,"A Survey on Understanding, Visualizations, and Explanation of Deep Neural Networks.",arXiv 2021,https://arxiv.org/abs/2102.01792,2102.01792,True,1
+3684,The ML,Interpretability and Analysis,Benchmarking and Survey of Explanation Methods for Black Box Models.,arXiv 2021,https://arxiv.org/pdf/2102.13076.pdf,2102.13076,True,1
+3688,The ML,Interpretability and Analysis,"Causal Interpretability for Machine Learning - Problems, Methods and Evaluation.",SIGKDD Explor. 2020,https://arxiv.org/abs/2003.03934,2003.03934,True,1
+3692,The ML,Interpretability and Analysis,"Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI.",Inf. Fusion 2020,https://arxiv.org/abs/1910.10045,1910.10045,True,1
+3696,The ML,Interpretability and Analysis,Explainable Artificial Intelligence Approaches: A Survey.,arXiv 2021,https://arxiv.org/abs/2101.09429,2101.09429,True,1
+3704,The ML,Interpretability and Analysis,Explainable Automated Fact-Checking: A Survey.,COLING 2020,https://arxiv.org/pdf/2011.03870.pdf,2011.03870,True,1
+3708,The ML,Interpretability and Analysis,Explainable Reinforcement Learning: A Survey.,CD-MAKE 2020,https://arxiv.org/abs/2005.06247,2005.06247,True,1
+3712,The ML,Interpretability and Analysis,Foundations of Explainable Knowledge-Enabled Systems.,Knowledge Graphs for eXplainable Artificial Intelligence 2020,https://arxiv.org/abs/2003.07520,2003.07520,True,1
+3716,The ML,Interpretability and Analysis,How convolutional neural networks see the world - A survey of convolutional neural network visualization methods.,Math. Found. Comput. 2018,https://arxiv.org/abs/1804.11191,1804.11191,True,1
+3720,The ML,Interpretability and Analysis,"Interpretable Machine Learning - A Brief History, State-of-the-Art and Challenges.",PKDD/ECML Workshops 2020,https://arxiv.org/abs/2010.09337,2010.09337,True,1
+3728,The ML,Interpretability and Analysis,"Measuring ""Why"" in Recommender Systems: a Comprehensive Survey on the Evaluation of Explainable Recommendation.",arXiv 2022,http://arxiv.org/pdf/2202.06466.pdf,2202.06466,True,2
+3732,The ML,Interpretability and Analysis,On Interpretability of Artificial Neural Networks: A Survey.,IEEE Trans. Radiat. Plasma Med. Sci. 2020,https://arxiv.org/pdf/2001.02522,2001.02522,True,1
+3736,The ML,Interpretability and Analysis,On the computation of counterfactual explanations - A survey.,arXiv 2019,https://arxiv.org/pdf/1911.07749.pdf,1911.07749,True,1
+3740,The ML,Interpretability and Analysis,Opportunities and Challenges in Explainable Artificial Intelligence (XAI): A Survey.,arXiv 2020,https://arxiv.org/abs/2006.11371,2006.11371,True,1
+3748,The ML,Interpretability and Analysis,Survey of explainable machine learning with visual and granular methods beyond quasi-explanations.,arXiv 2020,https://arxiv.org/abs/2009.10221,2009.10221,True,1
+3752,The ML,Interpretability and Analysis,Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks.,arXiv 2022,https://arxiv.org/pdf/2207.13243.pdf,2207.13243,True,2
+3756,The ML,Interpretability and Analysis,Understanding Neural Networks via Feature Visualization: A survey.,Explainable AI 2019,https://arxiv.org/abs/1904.08939,1904.08939,True,1
+3760,The ML,Interpretability and Analysis,Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers.,IEEE Trans. Vis. Comput. Graph. 2019,https://arxiv.org/abs/1801.06889,1801.06889,True,1
+3764,The ML,Interpretability and Analysis,Visual Interpretability for Deep Learning: a Survey.,Frontiers Inf. Technol. Electron. Eng. 2018,https://arxiv.org/abs/1802.00614,1802.00614,True,1
+3768,The ML,Interpretability and Analysis,Visualisation of Pareto Front Approximation: A Short Survey and Empirical Comparisons.,CEC 2019,https://arxiv.org/abs/1903.01768,1903.01768,True,1
+3772,The ML,Interpretability and Analysis,When will the mist clear? On the Interpretability of Machine Learning for Medical Applications: a survey.,arXiv 2020,https://arxiv.org/abs/2010.00353,2010.00353,True,1
+3776,The ML,Interpretability and Analysis,XAI Methods for Neural Time Series Classification: A Brief Review.,arXiv 2021,https://arxiv.org/pdf/2108.08009.pdf,2108.08009,True,1
+3782,The ML,Knowledge Distillation,A Selective Survey on Versatile Knowledge Distillation Paradigm for Neural Network Models.,arXiv 2020,https://arxiv.org/pdf/2011.14554.pdf,2011.14554,True,1
+3786,The ML,Knowledge Distillation,Distilling the Knowledge in a Neural Network.,arXiv 2015,https://arxiv.org/pdf/1503.02531.pdf,1503.02531,True,1
+3790,The ML,Knowledge Distillation,Knowledge Distillation: A Survey.,Int. J. Comput. Vis. 2021,https://arxiv.org/abs/2006.05525,2006.05525,True,1
+3796,The ML,Meta Learning,A Comprehensive Overview and Survey of Recent Advances in Meta-Learning.,arXiv 2020,https://arxiv.org/abs/2004.11149,2004.11149,True,1
+3800,The ML,Meta Learning,A Survey of Deep Meta-Learning.,Artif. Intell. Rev. 2021,https://arxiv.org/pdf/2010.03522.pdf,2010.03522,True,1
+3804,The ML,Meta Learning,A Survey of Meta-Reinforcement Learning.,arXiv 2023,https://arxiv.org/pdf/2301.08028.pdf,2301.08028,True,1
+3808,The ML,Meta Learning,Meta-learning for Few-shot Natural Language Processing: A Survey.,arXiv 2020,https://arxiv.org/abs/2007.09604,2007.09604,True,1
+3812,The ML,Meta Learning,Meta-Learning in Neural Networks: A Survey.,IEEE Trans. Pattern Anal. Mach. Intell. 2022,https://arxiv.org/abs/2004.05439,2004.05439,True,1
+3816,The ML,Meta Learning,Meta-Learning: A Survey.,arXiv 2018,https://arxiv.org/abs/1810.03548,1810.03548,True,1
+3822,The ML,Metric Learning,A Survey on Metric Learning for Feature Vectors and Structured Data.,arXiv 2013,https://arxiv.org/abs/1306.6709,1306.6709,True,1
+3826,The ML,Metric Learning,"A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms, Experimental Analysis, Prospects and Challenges.",Neurocomputing 2021,https://arxiv.org/abs/1812.05944,1812.05944,True,1
+3832,The ML,ML and DL Applications,A Comprehensive Survey on Community Detection with Deep Learning.,arXiv 2021,https://arxiv.org/abs/2105.12584,2105.12584,True,2
+3836,The ML,ML and DL Applications,"A Comprehensive Survey on Deep Music Generation: Multi-level Representations, Algorithms, Evaluations, and Future Directions.",arXiv 2020,https://arxiv.org/pdf/2011.06801.pdf,2011.06801,True,1
+3840,The ML,ML and DL Applications,A Comprehensive Survey on Graph Anomaly Detection with Deep Learning.,arXiv 2021,https://arxiv.org/pdf/2106.07178.pdf,2106.07178,True,1
+3844,The ML,ML and DL Applications,A Comprehensive Survey on Machine Learning Techniques and User Authentication Approaches for Credit Card Fraud Detection.,arXiv 2019,https://arxiv.org/pdf/1912.02629.pdf,1912.02629,True,1
+3852,The ML,ML and DL Applications,A Survey of Community Detection Approaches: From Statistical Modeling to Deep Learning.,IEEE Trans. Knowl. Data Eng. 2023,https://arxiv.org/pdf/2101.01669.pdf,2101.01669,True,1
+3856,The ML,ML and DL Applications,A Survey of Deep Learning Applications to Autonomous Vehicle Control.,IEEE Trans. Intell. Transp. Syst. 2021,https://arxiv.org/pdf/1912.10773.pdf,1912.10773,True,1
+3860,The ML,ML and DL Applications,A Survey of Deep Learning Techniques for Autonomous Driving.,J. Field Robotics 2020,https://arxiv.org/pdf/1910.07738.pdf,1910.07738,True,1
+3864,The ML,ML and DL Applications,A Survey of Machine Learning for Computer Architecture and Systems.,ACM Comput. Surv. 2023,https://arxiv.org/abs/2102.07952,2102.07952,True,1
+3868,The ML,ML and DL Applications,A Survey of Machine Learning Techniques for Detecting and Diagnosing COVID-19 from Imaging.,Quant. Biol. 2022,https://arxiv.org/pdf/2108.04344.pdf,2108.04344,True,1
+3872,The ML,ML and DL Applications,A Survey on Anomaly Detection for Technical Systems using LSTM Networks.,Comput. Ind. 2021,https://arxiv.org/abs/2105.13810,2105.13810,True,1
+3876,The ML,ML and DL Applications,A Survey on Deep Learning-based Non-Invasive Brain Signals:Recent Advances and New Frontiers.,Journal of Neural Engineering 2019,https://arxiv.org/abs/1905.04149,1905.04149,True,1
+3880,The ML,ML and DL Applications,A Survey on Machine Learning Applied to Dynamic Physical Systems.,arXiv 2020,https://arxiv.org/abs/2009.09719,2009.09719,True,1
+3884,The ML,ML and DL Applications,A Survey on Practical Applications of Multi-Armed and Contextual Bandits.,arXiv 2019,https://arxiv.org/pdf/1904.10040.pdf,1904.10040,True,1
+3888,The ML,ML and DL Applications,A Survey on Spatial and Spatiotemporal Prediction Methods.,arXiv 2020,https://arxiv.org/pdf/2012.13384.pdf,2012.13384,True,1
+3892,The ML,ML and DL Applications,A Survey on the Role of Artificial Intelligence in the Prediction and Diagnosis of Schizophrenia.,arXiv 2023,https://arxiv.org/abs/2305.14370,2305.14370,True,1
+3896,The ML,ML and DL Applications,A Survey on the Use of AI and ML for Fighting the COVID-19 Pandemic.,arXiv 2020,https://arxiv.org/abs/2008.07449,2008.07449,True,1
+3900,The ML,ML and DL Applications,A Survey on Traffic Signal Control Methods.,arXiv 2019,https://arxiv.org/pdf/1904.08117.pdf,1904.08117,True,1
+3904,The ML,ML and DL Applications,"Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion.",arXiv 2021,https://arxiv.org/abs/2101.08301,2101.08301,True,1
+3916,The ML,ML and DL Applications,Autonomous Vehicles on the Edge: A Survey on Autonomous Vehicle Racing.,arXiv 2022,https://arxiv.org/pdf/2202.07008.pdf,2202.07008,True,1
+3920,The ML,ML and DL Applications,Classification of Pathological and Normal Gait: A Survey.,arXiv 2020,https://arxiv.org/pdf/2012.14465.pdf,2012.14465,True,1
+3924,The ML,ML and DL Applications,Classification supporting COVID-19 diagnostics based on patient survey data.,arXiv 2020,https://arxiv.org/pdf/2011.12247.pdf,2011.12247,True,1
+3928,The ML,ML and DL Applications,Computer Vision Methods for the Microstructural Analysis of Materials: The State-of-the-art and Future Perspectives.,arXiv 2022,https://arxiv.org/abs/2208.04149,2208.04149,True,1
+3932,The ML,ML and DL Applications,Credit card fraud detection using machine learning: A survey.,arXiv 2020,https://arxiv.org/pdf/2010.06479.pdf,2010.06479,True,1
+3936,The ML,ML and DL Applications,Cross-Modality Neuroimage Synthesis: A Survey.,arXiv 2022,https://arxiv.org/pdf/2202.06997.pdf,2202.06997,True,1
+3944,The ML,ML and DL Applications,Deep Learning for Click-Through Rate Estimation.,IJCAI 2021,https://arxiv.org/pdf/2104.10584.pdf,2104.10584,True,1
+3948,The ML,ML and DL Applications,Deep Learning for Spatio-Temporal Data Mining: A Survey.,IEEE Trans. Knowl. Data Eng. 2022,https://arxiv.org/pdf/1906.04928.pdf,1906.04928,True,1
+3952,The ML,ML and DL Applications,"Deep learning models for predictive maintenance: a survey, comparison, challenges and prospect.",arXiv 2020,https://arxiv.org/pdf/2010.03207.pdf,2010.03207,True,1
+3956,The ML,ML and DL Applications,Deep Learning-based Spacecraft Relative Navigation Methods: A Survey.,arXiv 2021,https://arxiv.org/pdf/2108.08876.pdf,2108.08876,True,1
+3964,The ML,ML and DL Applications,DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction.,CIKM 2021,https://arxiv.org/pdf/2108.09091.pdf,2108.09091,True,1
+3972,The ML,ML and DL Applications,Fashion Meets Computer Vision: A Survey.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2003.13988,2003.13988,True,1
+3976,The ML,ML and DL Applications,Going Deeper Into Face Detection: A Survey.,arXiv 2021,https://arxiv.org/abs/2103.14983,2103.14983,True,1
+3980,The ML,ML and DL Applications,Graph Representation Learning in Biomedicine.,arXiv 2021,http://arxiv.org/abs/2104.04883,2104.04883,True,1
+3984,The ML,ML and DL Applications,Graph-based Deep Learning for Communication Networks: A Survey.,Comput. Commun. 2022,https://arxiv.org/abs/2106.02533,2106.02533,True,1
+3988,The ML,ML and DL Applications,How Developers Iterate on Machine Learning Workflows - A Survey of the Applied Machine Learning Literature.,arXiv 2018,https://arxiv.org/abs/1803.10311,1803.10311,True,1
+3992,The ML,ML and DL Applications,Human Action Recognition from Various Data Modalities: A Review.,IEEE Trans. Pattern Anal. Mach. Intell. 2023,https://arxiv.org/pdf/2012.11866.pdf,2012.11866,True,1
+3996,The ML,ML and DL Applications,"Known Operator Learning and Hybrid Machine Learning in Medical Imaging - A Review of the Past, the Present, and the Future.",arXiv 2021,https://arxiv.org/pdf/2108.04543.pdf,2108.04543,True,1
+4000,The ML,ML and DL Applications,Machine Learning Aided Static Malware Analysis: A Survey and Tutorial.,arXiv 2018,https://arxiv.org/abs/1808.01201,1808.01201,True,1
+4004,The ML,ML and DL Applications,Machine Learning and Deep Learning -- A review for Ecologists.,Methods in Ecology and Evolution 2022,https://arxiv.org/pdf/2204.05023.pdf,2204.05023,True,1
+4008,The ML,ML and DL Applications,Machine Learning for Cataract Classification and Grading on Ophthalmic Imaging Modalities: A Survey.,arXiv 2020,http://arxiv.org/pdf/2012.04830.pdf,2012.04830,True,1
+4012,The ML,ML and DL Applications,Machine Learning for Electronic Design Automation: A Survey.,ACM Trans. Design Autom. Electr. Syst. 2021,https://arxiv.org/abs/2102.03357,2102.03357,True,1
+4016,The ML,ML and DL Applications,Machine Learning for Survival Analysis: A Survey.,ACM Comput. Surv. 2019,https://arxiv.org/abs/1708.04649,1708.04649,True,1
+4020,The ML,ML and DL Applications,Medical Image Segmentation with 3D Convolutional Neural Networks: A Survey.,Neurocomputing 2022,https://arxiv.org/abs/2108.08467,2108.08467,True,1
+4024,The ML,ML and DL Applications,MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design.,arXiv 2022,https://arxiv.org/pdf/2203.14500.pdf,2203.14500,True,1
+4028,The ML,ML and DL Applications,Multi-modal Sensor Fusion for Auto Driving Perception: A Survey.,arXiv 2022,https://arxiv.org/pdf/2202.02703.pdf,2202.02703,True,2
+4032,The ML,ML and DL Applications,Physics-Guided Deep Learning for Dynamical Systems: A Survey.,arXiv 2021,https://arxiv.org/abs/2107.01272,2107.01272,True,1
+4036,The ML,ML and DL Applications,"Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications.",arXiv 2022,https://arxiv.org/pdf/2211.08064.pdf,2211.08064,True,1
+4040,The ML,ML and DL Applications,Predicting the Future from First Person (Egocentric) Vision: A Survey.,Comput. Vis. Image Underst. 2021,https://arxiv.org/pdf/2107.13411.pdf,2107.13411,True,1
+4044,The ML,ML and DL Applications,Prediction of neonatal mortality in Sub-Saharan African countries using data-level linkage of multiple surveys.,arXiv 2020,https://arxiv.org/pdf/2011.12707.pdf,2011.12707,True,1
+4048,The ML,ML and DL Applications,Requirement Engineering Challenges for AI-intense Systems Development.,WAIN@ICSE 2021,https://arxiv.org/pdf/2103.10270.pdf,2103.10270,True,1
+4052,The ML,ML and DL Applications,Short-term Traffic Prediction with Deep Neural Networks: A Survey.,IEEE Access 2021,https://arxiv.org/abs/2009.00712,2009.00712,True,1
+4056,The ML,ML and DL Applications,Should I Raise The Red Flag? A comprehensive survey of anomaly scoring methods toward mitigating false alarms.,arXiv 2019,https://arxiv.org/pdf/1904.06646.pdf,1904.06646,True,1
+4060,The ML,ML and DL Applications,The Threat of Adversarial Attacks on Machine Learning in Network Security - A Survey.,arXiv 2019,https://arxiv.org/pdf/1911.02621.pdf,1911.02621,True,1
+4072,The ML,ML and DL Applications,Transformers in Remote Sensing: A Survey.,arXiv 2022,https://arxiv.org/pdf/2209.01206.pdf,2209.01206,True,2
+4076,The ML,ML and DL Applications,Transformers in Time Series: A Survey.,arXiv 2022,https://arxiv.org/pdf/2202.07125.pdf,2202.07125,True,1
+4080,The ML,ML and DL Applications,Understanding racial bias in health using the Medical Expenditure Panel Survey data.,arXiv 2019,https://arxiv.org/pdf/1911.01509.pdf,1911.01509,True,1
+4084,The ML,ML and DL Applications,Urban flows prediction from spatial-temporal data using machine learning: A survey.,arXiv 2019,https://arxiv.org/abs/1908.10218,1908.10218,True,1
+4088,The ML,ML and DL Applications,Using Deep Learning for Visual Decoding and Reconstruction from Brain Activity: A Review.,arXiv 2021,https://arxiv.org/pdf/2108.04169.pdf,2108.04169,True,1
+4092,The ML,ML and DL Applications,Utilising Graph Machine Learning within Drug Discovery and Development.,arXiv 2020,https://arxiv.org/pdf/2012.05716.pdf,2012.05716,True,1
+4098,The ML,Model Compression and Acceleration,A Survey of Model Compression and Acceleration for Deep Neural Networks.,arXiv 2017,https://arxiv.org/abs/1710.09282,1710.09282,True,1
+4102,The ML,Model Compression and Acceleration,A Survey of Quantization Methods for Efficient Neural Network Inference.,arXiv 2021,https://arxiv.org/abs/2103.13630,2103.13630,True,1
+4106,The ML,Model Compression and Acceleration,"A Survey on Deep Neural Network Compression: Challenges, Overview, and Solutions.",arXiv 2020,https://arxiv.org/pdf/2010.03954.pdf,2010.03954,True,1
+4110,The ML,Model Compression and Acceleration,A Survey on GAN Acceleration Using Memory Compression Technique.,arXiv 2021,https://arxiv.org/pdf/2108.06626.pdf,2108.06626,True,1
+4114,The ML,Model Compression and Acceleration,A Survey on Methods and Theories of Quantized Neural Networks.,arXiv 2018,https://arxiv.org/abs/1808.04752,1808.04752,True,1
+4118,The ML,Model Compression and Acceleration,A Survey on Model Compression and Acceleration for Pretrained Language Models.,arXiv 2022,https://arxiv.org/abs/2202.07105,2202.07105,True,2
+4122,The ML,Model Compression and Acceleration,An Overview of Neural Network Compression.,arXiv 2020,https://arxiv.org/abs/2006.03669,2006.03669,True,1
+4126,The ML,Model Compression and Acceleration,Compression of Deep Learning Models for Text: A Survey.,ACM Trans. Knowl. Discov. Data 2022,https://arxiv.org/abs/2008.05221,2008.05221,True,1
+4130,The ML,Model Compression and Acceleration,"Dimensionality Reduced Training by Pruning and Freezing Parts of a Deep Neural Network, a Survey.",arXiv 2022,https://arxiv.org/pdf/2205.08099.pdf,2205.08099,True,1
+4134,The ML,Model Compression and Acceleration,"Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better.",arXiv 2021,https://arxiv.org/pdf/2106.08962.pdf,2106.08962,True,1
+4138,The ML,Model Compression and Acceleration,Pruning Algorithms to Accelerate Convolutional Neural Networks for Edge Applications: A Survey.,arXiv 2020,https://arxiv.org/abs/2005.04275,2005.04275,True,1
+4142,The ML,Model Compression and Acceleration,Pruning and Quantization for Deep Neural Network Acceleration: A Survey.,arXiv 2021,https://arxiv.org/abs/2101.09671,2101.09671,True,1
+4146,The ML,Model Compression and Acceleration,Survey of Machine Learning Accelerators.,HPEC 2020,https://arxiv.org/abs/2009.00993,2009.00993,True,1
+4150,The ML,Model Compression and Acceleration,Survey on Large Scale Neural Network Training.,arXiv 2022,https://arxiv.org/abs/2202.10435,2202.10435,True,2
+4168,The ML,Multi-Label Learning,The Emerging Trends of Multi-Label Learning.,arXiv 2020,https://arxiv.org/abs/2011.11197,2011.11197,True,1
+4178,The ML,Multi-Task and Multi-View Learning,A Survey on Multi-Task Learning.,IEEE Trans. Knowl. Data Eng. 2022,https://arxiv.org/abs/1707.08114,1707.08114,True,1
+4182,The ML,Multi-Task and Multi-View Learning,A Survey on Multi-view Learning.,arXiv 2013,https://arxiv.org/abs/1304.5634,1304.5634,True,1
+4190,The ML,Multi-Task and Multi-View Learning,An Overview of Multi-Task Learning in Deep Neural Networks.,arXiv 2017,https://arxiv.org/abs/1706.05098,1706.05098,True,1
+4194,The ML,Multi-Task and Multi-View Learning,Multi-Task Learning for Dense Prediction Tasks: A Survey.,IEEE Trans. Pattern Anal. Mach. Intell. 2022,https://arxiv.org/pdf/2004.13379.pdf,2004.13379,True,1
+4198,The ML,Multi-Task and Multi-View Learning,Multi-task learning for natural language processing in the 2020s: where are we going?.,Pattern Recognit. Lett. 2020,https://arxiv.org/pdf/2007.16008,2007.16008,True,1
+4202,The ML,Multi-Task and Multi-View Learning,Multi-Task Learning with Deep Neural Networks: A Survey.,arXiv 2020,https://arxiv.org/abs/2009.09796,2009.09796,True,1
+4208,The ML,Online Learning,A Survey of Algorithms and Analysis for Adaptive Online Learning.,J. Mach. Learn. Res. 2017,https://arxiv.org/abs/1403.3465,1403.3465,True,1
+4212,The ML,Online Learning,Online Continual Learning in Image Classification: An Empirical Survey.,Neurocomputing 2022,https://arxiv.org/abs/2101.10423,2101.10423,True,1
+4216,The ML,Online Learning,Online Learning: A Comprehensive Survey.,Neurocomputing 2021,https://arxiv.org/abs/1802.02871,1802.02871,True,1
+4226,The ML,Optimization,A Survey of Optimization Methods from a Machine Learning Perspective.,IEEE Trans. Cybern. 2020,https://arxiv.org/abs/1906.06821,1906.06821,True,1
+4230,The ML,Optimization,A Systematic and Meta-analysis Survey of Whale Optimization Algorithm.,Comput. Intell. Neurosci. 2019,https://arxiv.org/abs/1903.08763,1903.08763,True,1
+4234,The ML,Optimization,An overview of gradient descent optimization algorithms.,arXiv 2016,https://arxiv.org/abs/1609.04747,1609.04747,True,1
+4242,The ML,Optimization,"Evolutionary Multitask Optimization: a Methodological Overview, Challenges and Future Research Directions.",arXiv 2021,https://arxiv.org/abs/2102.02558,2102.02558,True,1
+4246,The ML,Optimization,Gradient Boosting Machine: A Survey.,arXiv 2019,https://arxiv.org/abs/1908.06951,1908.06951,True,1
+4250,The ML,Optimization,Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond.,IEEE Trans. Pattern Anal. Mach. Intell. 2022,https://arxiv.org/abs/2101.11517,2101.11517,True,1
+4254,The ML,Optimization,Learning Combinatorial Optimization on Graphs: A Survey with Applications to Networking.,IEEE Access 2020,https://arxiv.org/pdf/2005.11081.pdf,2005.11081,True,1
+4258,The ML,Optimization,Nature-Inspired Optimization Algorithms: Research Direction and Survey.,arXiv 2021,https://arxiv.org/abs/2102.04013,2102.04013,True,1
+4262,The ML,Optimization,Optimization for deep learning: theory and algorithms.,arXiv 2019,https://arxiv.org/abs/1912.08957,1912.08957,True,1
+4266,The ML,Optimization,Optimization Problems for Machine Learning: A Survey.,Eur. J. Oper. Res. 2021,https://arxiv.org/abs/1901.05331,1901.05331,True,1
+4270,The ML,Optimization,Particle Swarm Optimization: A survey of historical and recent developments with hybridization perspectives.,Mach. Learn. Knowl. Extr. 2019,https://arxiv.org/abs/1804.05319,1804.05319,True,1
+4274,The ML,Optimization,Why Do Local Methods Solve Nonconvex Problems?.,Beyond the Worst-Case Analysis of Algorithms 2020,https://arxiv.org/pdf/2103.13462.pdf,2103.13462,True,1
+4284,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning",A Survey of Unsupervised Dependency Parsing.,COLING 2020,https://arxiv.org/pdf/2010.01535.pdf,2010.01535,True,1
+4288,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning",A Survey on Deep Semi-supervised Learning.,arXiv 2021,https://arxiv.org/abs/2103.00550,2103.00550,True,1
+4292,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning","A survey on Semi-, Self- and Unsupervised Learning for Image Classification.",IEEE Access 2021,https://arxiv.org/abs/2002.08721,2002.08721,True,1
+4296,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning",A Survey on Semi-Supervised Learning Techniques.,arXiv 2014,https://arxiv.org/abs/1402.4645,1402.4645,True,1
+4300,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning",Deep Learning for Weakly-Supervised Object Detection and Object Localization: A Survey.,arXiv 2021,https://arxiv.org/pdf/2105.12694.pdf,2105.12694,True,1
+4304,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning",Graph-based Semi-supervised Learning: A Comprehensive Review.,arXiv 2021,https://arxiv.org/abs/2102.13303,2102.13303,True,1
+4308,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning",Improvability Through Semi-Supervised Learning: A Survey of Theoretical Results.,arXiv 2019,https://arxiv.org/abs/1908.09574,1908.09574,True,1
+4312,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning",Learning from positive and unlabeled data: a survey.,Mach. Learn. 2020,https://arxiv.org/abs/1811.04820,1811.04820,True,1
+4316,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning",Robust Deep Semi-Supervised Learning: A Brief Introduction.,arXiv 2022,https://arxiv.org/pdf/2202.05975.pdf,2202.05975,True,1
+4320,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning",Self-Supervised Learning for Recommender Systems: A Survey.,arXiv 2022,https://arxiv.org/pdf/2203.15876.pdf,2203.15876,True,2
+4324,The ML,"Semi-Supervised, Weakly-Supervised and Unsupervised Learning",Self-Supervised Learning for Videos: A Survey.,arXiv 2022,https://arxiv.org/pdf/2207.00419.pdf,2207.00419,True,1
+4334,The ML,Transfer Learning,A Comprehensive Survey on Transfer Learning.,Proc. IEEE 2021,https://arxiv.org/abs/1911.02685,1911.02685,True,1
+4338,The ML,Transfer Learning,A Survey of Unsupervised Deep Domain Adaptation.,ACM Trans. Intell. Syst. Technol. 2020,https://arxiv.org/abs/1812.02849,1812.02849,True,1
+4342,The ML,Transfer Learning,A Survey on Deep Transfer Learning.,ICANN 2018,https://arxiv.org/abs/1808.01974,1808.01974,True,1
+4346,The ML,Transfer Learning,A survey on domain adaptation theory: learning bounds and theoretical guarantees.,arXiv 2020,https://arxiv.org/abs/2004.11829,2004.11829,True,1
+4350,The ML,Transfer Learning,A Survey on Negative Transfer.,IEEE/CAA Journal of Automatica Sinica 2020,http://arxiv.org/pdf/2009.00909.pdf,2009.00909,True,1
+4358,The ML,Transfer Learning,A Survey on Transfer Learning in Natural Language Processing.,arXiv 2020,https://arxiv.org/abs/2007.04239,2007.04239,True,2
+4362,The ML,Transfer Learning,Evolution of transfer learning in natural language processing.,arXiv 2019,https://arxiv.org/abs/1910.07370,1910.07370,True,1
+4366,The ML,Transfer Learning,Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.,J. Mach. Learn. Res. 2020,https://arxiv.org/pdf/1910.10683.pdf,1910.10683,True,1
+4370,The ML,Transfer Learning,Neural Unsupervised Domain Adaptation in NLP---A Survey.,COLING 2020,https://arxiv.org/abs/2006.00632,2006.00632,True,1
+4374,The ML,Transfer Learning,Source-Free Unsupervised Domain Adaptation: A Survey.,arXiv 2023,https://arxiv.org/pdf/2301.00265.pdf,2301.00265,True,1
+4378,The ML,Transfer Learning,Transfer Adaptation Learning: A Decade Survey.,arXiv 2019,https://arxiv.org/pdf/1903.04687.pdf,1903.04687,True,1
+4386,The ML,Transfer Learning,Transfer Learning in Deep Reinforcement Learning: A Survey.,arXiv 2020,https://arxiv.org/abs/2009.07888,2009.07888,True,1
+4390,The ML,Transfer Learning,Transferability in Deep Learning: A Survey.,arXiv 2022,https://arxiv.org/pdf/2201.05867.pdf,2201.05867,True,1
+4396,The ML,Trustworthy Machine Learning,"A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability.",arXiv 2022,https://arxiv.org/pdf/2204.08570.pdf,2204.08570,True,2
+4400,The ML,Trustworthy Machine Learning,A Survey of Neural Trojan Attacks and Defenses in Deep Learning.,arXiv 2022,https://arxiv.org/pdf/2202.07183.pdf,2202.07183,True,1
+4404,The ML,Trustworthy Machine Learning,A Survey of Privacy Attacks in Machine Learning.,arXiv 2020,https://arxiv.org/pdf/2007.07646,2007.07646,True,1
+4412,The ML,Trustworthy Machine Learning,A Survey on Bias and Fairness in Machine Learning.,ACM Comput. Surv. 2022,https://arxiv.org/abs/1908.09635,1908.09635,True,1
+4416,The ML,Trustworthy Machine Learning,Backdoor Learning: A Survey.,arXiv 2020,https://arxiv.org/abs/2007.08745,2007.08745,True,1
+4420,The ML,Trustworthy Machine Learning,Differential Privacy and Machine Learning: a Survey and Review.,arXiv 2014,https://arxiv.org/abs/1412.7584,1412.7584,True,1
+4424,The ML,Trustworthy Machine Learning,Fairness in Machine Learning: A Survey.,arXiv 2020,https://arxiv.org/pdf/2010.04053.pdf,2010.04053,True,1
+4428,The ML,Trustworthy Machine Learning,Local Differential Privacy and Its Applications: A Comprehensive Survey.,arXiv 2020,https://arxiv.org/abs/2008.03686,2008.03686,True,1
+4432,The ML,Trustworthy Machine Learning,Privacy in Deep Learning: A Survey.,arXiv 2020,https://arxiv.org/abs/2004.12254,2004.12254,True,1
+4436,The ML,Trustworthy Machine Learning,Taxonomy of Machine Learning Safety: A Survey and Primer.,ACM Comput. Surv. 2023,https://arxiv.org/abs/2106.04823,2106.04823,True,1
+4440,The ML,Trustworthy Machine Learning,Technology Readiness Levels for Machine Learning Systems.,arXiv 2021,https://arxiv.org/pdf/2101.03989.pdf,2101.03989,True,1
+4444,The ML,Trustworthy Machine Learning,The Creation and Detection of Deepfakes: A Survey.,ACM Comput. Surv. 2022,https://arxiv.org/abs/2004.11138,2004.11138,True,1
+4448,The ML,Trustworthy Machine Learning,Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks.,arXiv 2022,https://arxiv.org/pdf/2207.13243.pdf,2207.13243,True,2
+4452,The ML,Trustworthy Machine Learning,Trustworthy AI: From Principles to Practices.,ACM Comput. Surv. 2023,https://arxiv.org/pdf/2110.01167.pdf,2110.01167,True,1
+4456,The ML,Trustworthy Machine Learning,"Trustworthy Graph Neural Networks: Aspects, Methods and Trends.",arXiv 2022,https://arxiv.org/pdf/2205.07424.pdf,2205.07424,True,2
+4460,The ML,Trustworthy Machine Learning,Tutorial: Safe and Reliable Machine Learning.,arXiv 2019,https://arxiv.org/abs/1904.07204,1904.07204,True,1
+4464,The ML,Trustworthy Machine Learning,When Machine Learning Meets Privacy: A Survey and Outlook.,ACM Comput. Surv. 2022,https://arxiv.org/pdf/2011.11819.pdf,2011.11819,True,1
+4468,The ML,Trustworthy Machine Learning,Wild Patterns Reloaded: A Survey of Machine Learning Security against Training Data Poisoning.,arXiv 2022,https://arxiv.org/pdf/2205.01992.pdf,2205.01992,True,1

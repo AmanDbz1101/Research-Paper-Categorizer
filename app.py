@@ -3,10 +3,7 @@ import tempfile
 import numpy as np
 import joblib
 from pathlib import Path
-import sys
 
-# Add extractor to path
-sys.path.insert(0, '/Users/anjalsatyal/Project/ai2/title_abstract_first_page_extractor')
 from src.extractor import FirstPageTitleAbstractExtractor
 
 # Page config

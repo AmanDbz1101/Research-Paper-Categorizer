@@ -26,7 +26,7 @@ class ExtractionResult:
 
 
 class FirstPageTitleAbstractExtractor:
-    """Extracts title and abstract from only the first page of a PDF."""
+    """Extracts title and abstract using first-page-first fallback up to page three."""
 
     def __init__(
         self,
@@ -43,31 +43,44 @@ class FirstPageTitleAbstractExtractor:
         if not path.exists():
             raise FileNotFoundError(f"PDF not found: {path}")
 
-        first_page_data = self._read_first_page(path)
         api_key = os.getenv("GROQ_API_KEY")
         if not api_key:
             raise EnvironmentError("GROQ_API_KEY is required. Groq extraction is mandatory.")
 
-        groq_result = self._extract_with_groq(first_page_data["page_text"], api_key)
+        title = ""
+        abstract = ""
 
-        title = groq_result.get("title", "").strip()
-        abstract = groq_result.get("abstract", "").strip()
+        for page_index in range(3):
+            page_data = self._read_page(path, page_index)
+            if not page_data:
+                break
 
-        if not self._is_valid_field(title, min_length=12):
-            raise ValueError("Failed to extract a valid title from first page via Groq.")
-        if not self._is_valid_field(abstract, min_length=120):
-            raise ValueError("Failed to extract a valid abstract from first page via Groq.")
+            groq_result = self._extract_with_groq(page_data["page_text"], api_key)
 
-        return ExtractionResult(title=title, abstract=abstract, source="groq")
+            candidate_title = groq_result.get("title", "").strip()
+            candidate_abstract = groq_result.get("abstract", "").strip()
 
-    def _read_first_page(self, pdf_path: Path) -> dict[str, Any]:
+            if not title and self._is_valid_field(candidate_title, min_length=12):
+                title = candidate_title
+            if not abstract and self._is_valid_field(candidate_abstract, min_length=120):
+                abstract = candidate_abstract
+
+            if title and abstract:
+                return ExtractionResult(title=title, abstract=abstract, source="groq")
+
+        raise ValueError("Failed to extract valid title/abstract from the first 3 pages via Groq.")
+
+    def _read_page(self, pdf_path: Path, page_index: int) -> dict[str, Any] | None:
         fitz = importlib.import_module("fitz")
         doc = fitz.open(pdf_path)
         try:
             if len(doc) == 0:
                 raise ValueError("PDF has no pages")
 
-            page = doc[0]
+            if page_index < 0 or page_index >= len(doc):
+                return None
+
+            page = doc[page_index]
             page_text = page.get_text("text")
             page_dict = page.get_text("dict")
             line_spans = self._flatten_line_spans(page_dict)

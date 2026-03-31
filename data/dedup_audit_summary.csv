@@ -1,7 +1,0 @@
-metric,value
-rows_after_missing_text_drop,2901
-conflicting_ids_count,2
-rows_removed_conflicting_labels,4
-rows_removed_same_id,42
-rows_removed_same_text,0
-rows_after_dedup,2855

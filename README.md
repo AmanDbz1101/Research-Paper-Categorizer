@@ -16,10 +16,10 @@ The project includes:
 - app.py: Streamlit UI entrypoint
 - src/extractor.py: PDF extraction logic (uses Groq API)
 - models/tfidf_scratch/scratch_logreg_artifacts.joblib: Saved model artifacts used by UI
-- data_cleaning.ipynb: Data cleaning workflow
-- research_paper_classification.ipynb: Model development notebook
-- hyperparameter_tuning_pipeline.ipynb: Hyperparameter experiments
-- dataset_wordcloud_evaluation.ipynb: Dataset wordcloud and EDA visuals
+- data_cleaning.ipynb: Cleans and prepares the raw dataset for training
+- research_paper_classification.ipynb: Main implementation notebook for the paper classification pipeline
+- hyperparameter_tuning_pipeline.ipynb: Runs hyperparameter experiments for model optimization
+- dataset_wordcloud_evaluation.ipynb: Explores the dataset with wordclouds and EDA visuals
 
 ## Installation (Python venv)
 

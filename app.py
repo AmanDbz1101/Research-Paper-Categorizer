@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 from pathlib import Path
 
-from src.extractor import FirstPageTitleAbstractExtractor
+from extractor import FirstPageTitleAbstractExtractor
 
 # Page config
 st.set_page_config(page_title="Research Paper Classifier", layout="wide")
